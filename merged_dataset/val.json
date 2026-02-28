@@ -1,0 +1,2264 @@
+[
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8204_jpg.rf.0b6ecf0d03d68b456c5b1cfd7bada1b8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0344><loc0228><loc0459><loc0354> toxic ; <loc0229><loc0151><loc0382><loc0230> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs06-1-_png.rf.63f15c9c4d40366912cba21faaffeaaf.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc0979><loc0983> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_19ADR_4_1_svg_png.rf.3e8349a71feb05b9554674d34bac2051.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> flammable",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8192_jpg.rf.ef5db149ff7de16082b87fa1a6820280.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0610><loc0432><loc0696><loc0536> toxic ; <loc0495><loc0337><loc0618><loc0408> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760050_08700216328234_17409722_GHS_Symbol_EXCLAMATION_MARK_png.rf.e567ffa44ba77990c62bdb5b68620083.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0625><loc0608><loc0720><loc0700> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_test_IMG_8060_jpg.rf.55fabb5e854c8ecb83695c7a1f5ac0ba.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0408><loc0394><loc0571><loc0546> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8042_jpg.rf.f4898c89d1696f5311b39f0d2ea62539.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0216><loc0515><loc0358><loc0666> harmful ; <loc0257><loc0634><loc0389><loc0759> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8028_jpg.rf.e0ae5dffae5f60d1858d979c2eb5dbfa.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0436><loc0540><loc0492><loc0560> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760178_08700216345347_17367500_GHS_Symbol_EXCLAMATION_MARK_png.rf.26c30c40629f01a81324619aed75abdb.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0516><loc0488><loc0586><loc0556> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8039_jpg.rf.fb16d9636170e4ed66e59ad09198fdeb.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0251><loc0435><loc0300><loc0455> harmful ; <loc0254><loc0533><loc0310><loc0579> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs08-5-_png.rf.0eb7a7e66917df841ba1d795c53686a8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0101><loc0169><loc0892><loc0836> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8175_jpg.rf.524f100a9032477d7226189e0f4cf683.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0602><loc0226><loc0725><loc0361> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs03-2-_png.rf.6f3fbc475d3e08df44c743a5cd98dc67.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0127><loc0341><loc0725><loc0729> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2832076_08700216660198_17492649_GHS_Symbol_EXCLAMATION_MARK_png.rf.d79031d34509143a7b641512e31ba1c2.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0655><loc0636><loc0725><loc0703> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2519891_08720181035128_2762378_GHS_Symbol_EXCLAMATION_MARK_png.rf.c902e379ab4c8a830ae8794f9950ff43.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0506><loc0756><loc0606><loc0837> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8196_jpg.rf.c088ec1fe817588bb30a9b6ba166bb2a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0345><loc0497><loc0466><loc0619> toxic ; <loc0202><loc0425><loc0365><loc0547> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8196_jpg.rf.fe5492a8f90a20d5b399e6e332fc75a4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0317><loc0561><loc0440><loc0703> toxic ; <loc0171><loc0483><loc0332><loc0634> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8102_jpg.rf.f9020702151b2afb469d5e9ae72ac1dc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0416><loc0576><loc0475><loc0609> harmful ; <loc0445><loc0377><loc0517><loc0433> oxidizer ; <loc0385><loc0722><loc0425><loc0764> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2542217_08720181077722_3849693_GHS_Symbol_FLAME_png.rf.878f4e089fd9904fe3e42a540a9fb873.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0869><loc0616><loc0950><loc0646> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8055_jpg.rf.4de8faa796c00481017ccf1bc9f4e8ab.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0402><loc0483><loc0506><loc0584> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2575296_08720181214011_16973351_GHS_Symbol_FLAME_png.rf.83196340452fab810be3a4ba6dfc61d5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0894><loc0474><loc0958><loc0535> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_ghs-17-_png.rf.4780eeb3bebf090c0b32b31a9c1c7994.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0280><loc0468><loc0718><loc0609> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8062_jpg.rf.38c03095b5664fae5e91e8e5ddcb078a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0564><loc0413><loc0690><loc0526> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8269_jpg.rf.3bac09aabc60cf17c6d760fa8f05c2fa.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0330><loc0281><loc0634><loc0590> toxic ; <loc0438><loc0000><loc0788><loc0173> health_hazard ; <loc0264><loc0642><loc0510><loc0868> explosive ; <loc0268><loc0902><loc0415><loc0986> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2824426_08700216703598_17627198_GHS_Symbol_CORROSION_png.rf.578e917aba910dfb431e91b7abc3e071.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0321><loc0072><loc0413><loc0164> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs-20-_png.rf.2ccf91e9220b7c54da1d6fbab9a7098a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0032><loc1023><loc1023> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2598495_08720181288999_16621489_GHS_Symbol_CORROSION_png.rf.f3561542480bde3c7870a9f4729e60f7.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0789><loc0412><loc0856><loc0479> corrosive ; <loc0790><loc0485><loc0858><loc0553> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8049_jpg.rf.7ea21ea4356d82a1b15f17b327492d64.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0495><loc0372><loc0638><loc0550> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs-21-_png.rf.87323d70f5d23f715cab0a244923e7b1.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0189><loc0288><loc0717><loc0669> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2833507_08700216654067_17432630_GHS_Symbol_ENVIRONMENT_png.rf.6ccae963a0b2a7cdc56a2fd4ff12e158.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0073><loc0225><loc0160><loc0309> harmful ; <loc0184><loc0226><loc0268><loc0310> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2864627_03178041320092_17401118_GHS_Symbol_ENVIRONMENT_jpeg.rf.6386ae116fdddecdf83dacaa10c72a03.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0582><loc0234><loc0677><loc0329> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs05-1-_png.rf.90a6940ec07ad8982c78167805b5276c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0322><loc0199><loc0634><loc0788> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2821898_08700216648493_17529964_GHS_Symbol_CORROSION_png.rf.c83e9540d44c56fe050e7b9f76ab5d64.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0286><loc0063><loc0378><loc0155> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2840392_08700216759199_17580776_GHS_Symbol_CORROSION_png.rf.cb4c40ca910600885ad1cdf96faa45e0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0802><loc0693><loc0874><loc0761> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2865742_03178041330732_17401100_GHS_Symbol_ENVIRONMENT_jpg.rf.d7e441b15aa9193df63cd39b2c866fe5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0345><loc0156><loc0414><loc0220> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8228_jpg.rf.4ae80142d68cd807f32ab8a4815e0a11.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0398><loc0406><loc0514><loc0528> toxic ; <loc0250><loc0441><loc0380><loc0544> oxidizer ; <loc0538><loc0327><loc0640><loc0431> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8279_jpg.rf.5ce0d777b1c488c3007c74b9acda61d0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0549><loc0069><loc0726><loc0257> toxic ; <loc0410><loc0479><loc0535><loc0622> explosive ; <loc0327><loc0751><loc0407><loc0847> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_test_IMG_8199_jpg.rf.d6a5c65fea293a707713cbd368e1660b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0364><loc0372><loc0569><loc0581> toxic ; <loc0253><loc0303><loc0469><loc0458> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs-22-_png.rf.ec17f3f31dde2ab69f67eecea44b161f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8067_jpg.rf.5866f9d272319fbf58f1f669b6335f51.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0478><loc0561><loc0563><loc0616> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8278_jpg.rf.883c0ccfc78b252b442367b4fe68f7cf.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0425><loc0029><loc0606><loc0223> toxic ; <loc0420><loc0521><loc0558><loc0679> explosive ; <loc0427><loc0859><loc0509><loc0970> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2838433_08700216698078_17417079_GHS_Symbol_CORROSION_png.rf.92df71fa266637ae74d2ee16a88a1b75.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0257><loc0060><loc0378><loc0173> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8179_jpg.rf.4c80be6cc9d5fec425ece2386c51bcaf.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0442><loc0519><loc0534><loc0625> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8081_jpg.rf.9e3e19af38ff54e8e992a2bf62c83983.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0368><loc0734><loc0557><loc0922> harmful ; <loc0460><loc0462><loc0661><loc0680> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8198_jpg.rf.774473783d7c93bad21dbbd47b84a385.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0478><loc0369><loc0577><loc0479> toxic ; <loc0385><loc0276><loc0516><loc0372> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2864732_05410091729974_17164755_GHS_Symbol_FLAME_jpg.rf.aee8beda9c4dd588e57c5768087da015.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0792><loc0108><loc0866><loc0206> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2825675_08720181548451_17067262_GHS_Symbol_FLAME_png.rf.43e4bacb63e8cf0242d0f9a0282c86c8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0771><loc0439><loc0851><loc0504> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8234_jpg.rf.7e644e035565eab13026f01d24f2575b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0462><loc0513><loc0586><loc0641> toxic ; <loc0293><loc0541><loc0449><loc0660> oxidizer ; <loc0583><loc0424><loc0691><loc0536> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8091_jpg.rf.d5f08e3ea578d1e4fef3735ab74095b0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0309><loc0662><loc0450><loc0815> harmful ; <loc0353><loc0490><loc0498><loc0651> oxidizer ; <loc0308><loc0812><loc0416><loc0880> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1474805_08712561803274_17007177_GHS_Symbol_FLAME_png.rf.99be2ce4522d10920996c5d88eb0c00f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0854><loc0370><loc0924><loc0407> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8104_jpg.rf.232784990f4587ca1f2ea2d6de38a90f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0411><loc0532><loc0482><loc0572> harmful ; <loc0459><loc0302><loc0558><loc0379> oxidizer ; <loc0369><loc0669><loc0414><loc0708> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8297_jpg.rf.ec3c3f9e7d2ec5901d609365a056a8b3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0398><loc0155><loc0502><loc0319> explosive ; <loc0425><loc0545><loc0491><loc0682> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8256_jpg.rf.d1faf57109c082b0d417c1d36fc8a303.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0382><loc0418><loc0505><loc0548> environmental ; <loc0000><loc0324><loc0156><loc0462> oxidizer ; <loc0162><loc0398><loc0322><loc0566> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_31ADR_6_2_svg_png.rf.3f8a0669a6dbe9a390057225d9d8e5f1.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0014><loc1023><loc1023> toxic",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8203_jpg.rf.0d47cd0b4a6437b6516ad371df3c9b1d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0375><loc0435><loc0475><loc0550> toxic ; <loc0245><loc0352><loc0393><loc0462> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8228_jpg.rf.4ae80142d68cd807f32ab8a4815e0a11.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0398><loc0406><loc0514><loc0528> toxic ; <loc0250><loc0441><loc0380><loc0544> oxidizer ; <loc0538><loc0327><loc0640><loc0431> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_28UN_transport_pictogram_-_3_-white-_svg_png.rf.02acb9d0e7a49350037c0aab28780cd1.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> flammable",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8296_jpg.rf.4caf8d76e0b6d84a9d8a8bf62f31db4c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0369><loc0062><loc0491><loc0246> explosive ; <loc0413><loc0485><loc0486><loc0619> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8197_jpg.rf.c07269cd70bcfa9fdf0ab3c041a808a6.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0280><loc0376><loc0395><loc0515> toxic ; <loc0180><loc0269><loc0336><loc0407> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8106_jpg.rf.01c8fd5f302b5f2c4277ad6831265b65.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0502><loc0539><loc0608><loc0641> harmful ; <loc0513><loc0358><loc0622><loc0473> oxidizer ; <loc0480><loc0689><loc0568><loc0718> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs02-9-_png.rf.9b7f5db6df5c7a11ca5bbe022ec19854.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1006> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2751207_08700216267663_17230916_GHS_Symbol_CORROSION_png.rf.786308fde2f62896ee55cb8cd1c44c29.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0303><loc0081><loc0420><loc0196> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8187_jpg.rf.dd8f9c4abbccb1707bd1d4305fac96db.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0533><loc0435><loc0599><loc0508> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2859456_03178041364355_17625366_GHS_Symbol_EXCLAMATION_MARK_jpg.rf.4c8306527e7652d28b54f281bb2f289e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0499><loc0346><loc0577><loc0424> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs05-4-_png.rf.05557462b45928a955e1871975a7292c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0287><loc0241><loc0615><loc0815> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8374_jpg.rf.9beaf2934c16a289524217bca2b4f1a6.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0366><loc0347><loc0620><loc0569> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2598497_08720181285783_16527303_GHS_Symbol_CORROSION_png.rf.1454e2df9805f5ad5e14fe6fc0a9a3ed.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0778><loc0390><loc0837><loc0446> harmful ; <loc0777><loc0448><loc0836><loc0507> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8186_jpg.rf.6c575e4aaad680d532a29d49f60b73ef.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0471><loc0398><loc0561><loc0496> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8112_jpg.rf.de5c3461ead06b7739c13fecd355b738.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0480><loc0465><loc0580><loc0559> harmful ; <loc0461><loc0390><loc0549><loc0444> oxidizer ; <loc0487><loc0597><loc0596><loc0708> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2490536_08710847917493_16327066_GHS_Symbol_CORROSION_png.rf.d2c91eed4b09ca0fb090229b9da78b84.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0377><loc0235><loc0491><loc0351> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8291_jpg.rf.ed0cd76041b26aad0857f6cbd5c9b90f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0517><loc0059><loc0617><loc0221> explosive ; <loc0543><loc0478><loc0617><loc0634> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2833503_08700216654265_17432637_GHS_Symbol_ENVIRONMENT_png.rf.1183003bd33efaeefc79d41593f3ed9e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0072><loc0226><loc0160><loc0310> harmful ; <loc0186><loc0224><loc0268><loc0310> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2825680_08720181548420_17080706_GHS_Symbol_FLAME_png.rf.ed6f3d45a637b449c3ca820dfb5b08c5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0773><loc0438><loc0853><loc0507> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8109_jpg.rf.6518b64a4cf9c0018c04d5a3fe6fdeba.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0608><loc0556><loc0652><loc0579> harmful ; <loc0605><loc0406><loc0658><loc0440> oxidizer ; <loc0578><loc0678><loc0618><loc0724> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760522_08700216313278_17228175_GHS_Symbol_CORROSION_png.rf.52ed7f56f2170e37ae3547e38ea45731.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0650><loc0124><loc0717><loc0189> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8121_jpg.rf.4a56273d3e6365da7c29ceeb23b98286.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0496><loc0573><loc0543><loc0591> harmful ; <loc0485><loc0408><loc0546><loc0451> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8190_jpg.rf.891ad3a1687c2a759dcb83ce986bdd37.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0466><loc0464><loc0628><loc0640> toxic ; <loc0266><loc0357><loc0488><loc0547> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1109959_08711700613255_14258148_GHS_Symbol_FLAME_png.rf.a3f6dd078cf0879c7e33440eb3ce074c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0852><loc0582><loc0914><loc0614> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs04-1-_png.rf.a7d211996b3ee6b2cb42b661f2848005.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0313><loc0249><loc0671><loc0790> compressed_gas",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8119_jpg.rf.3bbe1883f729074f28b991fe1f3bda65.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0306><loc0401><loc0369><loc0436> harmful ; <loc0320><loc0188><loc0400><loc0252> oxidizer ; <loc0313><loc0541><loc0359><loc0584> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2769082_08700216261142_17308377_GHS_Symbol_ENVIRONMENT_png.rf.d4e333865455a1cdcfb415d2638b8367.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0362><loc0405><loc0502><loc0542> environmental ; <loc0506><loc0406><loc0644><loc0541> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2865742_03178041330732_17401100_GHS_Symbol_ENVIRONMENT_jpg.rf.d7e441b15aa9193df63cd39b2c866fe5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0345><loc0156><loc0414><loc0220> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8128_jpg.rf.546de779168d79504e32dcab44cc9400.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0596><loc0603><loc0638><loc0616> harmful ; <loc0605><loc0440><loc0655><loc0474> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8279_jpg.rf.c0269f1ba2e4c43d16d2625421c46fa5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0486><loc0000><loc0617><loc0172> toxic ; <loc0465><loc0435><loc0555><loc0567> explosive ; <loc0456><loc0723><loc0510><loc0813> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_858168_08717163965276_17004261_GHS_Symbol_FLAME_png.rf.23e846e9a579309cc4d577019b8717c5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0839><loc0416><loc0896><loc0442> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8237_jpg.rf.dc9699e0e6ea5d5c3bbd3859d1b94b7b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0424><loc0466><loc0521><loc0588> toxic ; <loc0280><loc0400><loc0410><loc0503> oxidizer ; <loc0545><loc0487><loc0622><loc0570> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8178_jpg.rf.e0a5d318e2db915807ba6336a9737c80.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0581><loc0478><loc0663><loc0576> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8106_jpg.rf.01c8fd5f302b5f2c4277ad6831265b65.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0502><loc0539><loc0608><loc0641> harmful ; <loc0513><loc0358><loc0622><loc0473> oxidizer ; <loc0480><loc0689><loc0568><loc0718> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8093_jpg.rf.c3c5552a08e859ea3202c6e136f2fb30.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0687><loc0763><loc0751><loc0789> harmful ; <loc0668><loc0514><loc0746><loc0567> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8227_jpg.rf.1f3f958c5e4c185b7b60008dbd8fd81f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0401><loc0638><loc0490><loc0727> toxic ; <loc0246><loc0633><loc0356><loc0709> oxidizer ; <loc0541><loc0591><loc0623><loc0670> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8156_jpg.rf.7c51f09a08ad95442fed921a4da60ee9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0359><loc0454><loc0408><loc0528> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2611585_08006540397688_17230666_GHS_Symbol_ENVIRONMENT_png.rf.5b9186993c7c51697757a6b595e41f98.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0144><loc0632><loc0226><loc0713> harmful ; <loc0232><loc0631><loc0316><loc0714> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760746_08700216318877_17409684_GHS_Symbol_CORROSION_png.rf.a0bae3e43678851509bbb6b8b503cf22.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0291><loc0103><loc0408><loc0222> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8157_jpg.rf.edf0378e895c2bdb13309af7f6f829bf.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0301><loc0321><loc0438><loc0422> harmful ; <loc0185><loc0379><loc0379><loc0584> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8055_jpg.rf.0f670564e6aa43f3e166b9b4539e9e62.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0403><loc0438><loc0513><loc0545> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8190_jpg.rf.2bb5ced42701430c569d2b9f3fb7fecd.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0442><loc0446><loc0580><loc0600> toxic ; <loc0264><loc0329><loc0466><loc0481> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8238_jpg.rf.c0294a9ea6c1ac14382ffc45cbf05ebb.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0441><loc0477><loc0548><loc0608> toxic ; <loc0271><loc0417><loc0421><loc0522> oxidizer ; <loc0577><loc0484><loc0664><loc0572> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2714838_08006540995860_16592176_GHS_Symbol_EXCLAMATION_MARK_png.rf.d7e61e134da19f77c0b65224d59e91a7.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0565><loc0615><loc0647><loc0696> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8173_jpg.rf.545bd3d6fc2fb64b51f6c2ee52ec8a25.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0394><loc0458><loc0510><loc0587> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8111_jpg.rf.d876cadc8698fb8823c01c5074e4f663.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0615><loc0468><loc0661><loc0490> harmful ; <loc0554><loc0359><loc0608><loc0391> oxidizer ; <loc0657><loc0592><loc0697><loc0652> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8112_jpg.rf.707211f2423864602984fa4843720b9a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0483><loc0410><loc0583><loc0496> harmful ; <loc0463><loc0337><loc0551><loc0385> oxidizer ; <loc0490><loc0539><loc0599><loc0643> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8054_jpg.rf.e0faaa8e83f357bf48eb4f2bfc4c0d14.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0502><loc0467><loc0629><loc0600> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8146_jpg.rf.d9b2c613b69eace0b4ad329d6331e6a0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0414><loc0298><loc0488><loc0326> harmful ; <loc0407><loc0447><loc0465><loc0543> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2836625_08720181590887_17160003_GHS_Symbol_FLAME_png.rf.fd742d2dae37078fa2efcdc7f387dc79.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0772><loc0440><loc0852><loc0506> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8091_jpg.rf.cae4b9e287e4673a32c7b5347804571b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0349><loc0655><loc0476><loc0776> harmful ; <loc0363><loc0473><loc0492><loc0602> oxidizer ; <loc0362><loc0807><loc0468><loc0847> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs05-15-_png.rf.a3c2f3b698bf70534743adfdabb4c3a9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2758688_08700216234559_17228072_GHS_Symbol_ENVIRONMENT_png.rf.2b481e3f9441e854d0c516cc907a2a73.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0298><loc0239><loc0430><loc0372> environmental ; <loc0159><loc0236><loc0292><loc0371> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2824106_08720181557699_16914583_GHS_Symbol_FLAME_png.rf.6f5e8028db515337a00f1519068f415a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0901><loc0480><loc0967><loc0542> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2540140_08720181020872_3605544_GHS_Symbol_FLAME_png.rf.eef54cd4d4187521ca0b7001493592a4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0843><loc0443><loc0940><loc0540> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8080_jpg.rf.7702f7a6b2932e4757ad1c13da71f566.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0425><loc0358><loc0569><loc0478> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8093_jpg.rf.315b0334bdd65d03d1a65e9fc2746039.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0604><loc0856><loc0671><loc0893> harmful ; <loc0630><loc0610><loc0713><loc0677> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8092_jpg.rf.9e637ea540f5f4dfd654fa137c094a0a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0568><loc0723><loc0654><loc0768> harmful ; <loc0552><loc0455><loc0644><loc0511> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8098_jpg.rf.6ed26aa387dfa60bd63ab8137b7dc1cb.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0470><loc0701><loc0524><loc0732> harmful ; <loc0441><loc0550><loc0520><loc0608> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2768917_08700216313582_17439447_GHS_Symbol_CORROSION_png.rf.d31bbaec240cb6adf5a655e0d67a80cc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0624><loc0140><loc0706><loc0224> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8094_jpg.rf.416a1375fe4251524b907a41dee98a92.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0653><loc0646><loc0811><loc0816> harmful ; <loc0598><loc0425><loc0770><loc0621> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8117_jpg.rf.0ca87e4dadac7c3c1b12d85239d8cc04.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0234><loc0321><loc0407><loc0494> harmful ; <loc0325><loc0189><loc0472><loc0318> oxidizer ; <loc0179><loc0504><loc0333><loc0640> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8057_jpg.rf.595f460b87390a6c0f83b7079ec1a25a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0303><loc0460><loc0458><loc0596> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8064_jpg.rf.0773f97bc0a372e8935a974b08fb8815.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0516><loc0453><loc0669><loc0613> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs03-2-_png.rf.b918ce4b4621b837e1411e0b42b24c53.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0123><loc0325><loc0741><loc0751> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2597665_08720181281891_17007207_GHS_Symbol_CORROSION_png.rf.ede1d1df8fcffc37d47173e3c31ed58d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0410><loc0431><loc0496><loc0511> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2769573_08700216343664_17025609_GHS_Symbol_ENVIRONMENT_png.rf.68dd287698605a65e926e652e8c4af56.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0660><loc0063><loc0797><loc0195> harmful ; <loc0800><loc0064><loc0935><loc0196> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8374_jpg.rf.be4cf20a0cff0ae2d63de344075abfd8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0358><loc0267><loc0594><loc0449> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2862175_03178040622128_17134216_GHS_Symbol_FLAME_jpeg.rf.505610781f659c66973dbadb1027d5bf.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0695><loc0399><loc0762><loc0439> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8237_jpg.rf.01ff3784f30a92db519761b689c3d6b9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0446><loc0429><loc0542><loc0538> toxic ; <loc0287><loc0423><loc0418><loc0510> oxidizer ; <loc0554><loc0401><loc0632><loc0475> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2847040_08720181664601_17203203_GHS_Symbol_CORROSION_png.rf.d3f407674a456108ad5ce7a773a8a5ab.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0806><loc0465><loc0843><loc0502> corrosive ; <loc0808><loc0428><loc0844><loc0464> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs-20-_png.rf.c5e24855c9c7df8ece72438f237c3670.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0008><loc0009><loc0983><loc1015> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2772306_08720181292057_17509690_GHS_Symbol_FLAME_png.rf.94687dd2a9f699219a1d514a75cf2d96.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0358><loc0581><loc0419><loc0608> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs09-8-_png.rf.af0e5a1940d35b7abed115e7a2ad3279.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0256><loc0233><loc0780><loc0759> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8095_jpg.rf.62580b971599fe48a220161e73ae8065.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0544><loc0699><loc0602><loc0728> harmful ; <loc0615><loc0531><loc0691><loc0589> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2590476_08001090862488_17231524_GHS_Symbol_EXCLAMATION_MARK_png.rf.c4b91bd6056b0be048393b0c9dabf814.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0689><loc0384><loc0773><loc0462> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8109_jpg.rf.bcb1ddb6310f8de7f23396ffd6254e98.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0642><loc0416><loc0688><loc0444> harmful ; <loc0581><loc0277><loc0637><loc0319> oxidizer ; <loc0666><loc0538><loc0713><loc0590> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2548203_08720181077654_3849708_GHS_Symbol_FLAME_png.rf.f6c4fe68961861a71b824f7e3a3518cd.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0867><loc0614><loc0947><loc0648> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2587697_08720181248207_16529631_GHS_Symbol_CORROSION_png.rf.adacb5835c41cfd873b50aece176c61b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0381><loc0641><loc0477><loc0731> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2725528_08700216120029_17439347_GHS_Symbol_CORROSION_png.rf.d39c6bd6ea55c4f3ed9077b66c04439b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0225><loc0074><loc0386><loc0231> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8016_jpg.rf.6cb2e7a9662f4f4e5ef4aae7c3778eb2.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0481><loc0425><loc0653><loc0601> harmful ; <loc0332><loc0483><loc0530><loc0669> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8174_jpg.rf.e38f606647cf62521fa1ece1216726d8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0361><loc0404><loc0633><loc0621> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8180_jpg.rf.6229e170a0b6a48cf456186900b17975.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0425><loc0437><loc0511><loc0536> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs06_-1-_png.rf.3b69e38816c0d55d1b1ee2a33c211947.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2761638_08700216234757_17229206_GHS_Symbol_ENVIRONMENT_png.rf.8af6094febfcd0d1644cc11dbae93a6a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0283><loc0236><loc0417><loc0373> environmental ; <loc0144><loc0238><loc0279><loc0369> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8081_jpg.rf.0b89d62b626405903da0b437c202702f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0607><loc0715><loc0796><loc0910> harmful ; <loc0525><loc0432><loc0727><loc0658> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8186_jpg.rf.a11f9831019b86bcfac7bdfd3ee5a48d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0486><loc0443><loc0583><loc0551> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2824717_08700216684057_17462107_GHS_Symbol_CORROSION_png.rf.076102de213189650a53030178051a0d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0257><loc0059><loc0381><loc0175> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2851619_08700216843843_17492720_GHS_Symbol_CORROSION_png.rf.a38247ee2bcb86685de84a6fc7da4469.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0694><loc0837><loc0805><loc0950> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8124_jpg.rf.ed80f7b943e9cf869c4162f66b0289d4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0588><loc0595><loc0641><loc0620> harmful ; <loc0587><loc0417><loc0650><loc0470> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8197_jpg.rf.16dcf5dbd7baa7c74482f6d2561a8f48.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0311><loc0393><loc0442><loc0528> toxic ; <loc0212><loc0272><loc0383><loc0406> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1474488_00000096100554_16217615_GHS_Symbol_FLAME_png.rf.7f7c79034d09c97fcdc973c6a371b54d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0830><loc0568><loc0951><loc0668> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2851621_08700216843959_17492730_GHS_Symbol_CORROSION_png.rf.8ecf3bc1789b64f20f4f91f30ea1c523.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0266><loc0056><loc0392><loc0170> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8050_jpg.rf.ae3699f598519c8ed8c75b89f4155bdc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0487><loc0364><loc0641><loc0559> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_valid_16ADR_2_2_svg_png.rf.b37b059ede470be285ec4b956f4f4b29.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> compressed_gas",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8377_jpg.rf.454013de6ce191eb98b3d7987b4d910d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0222><loc0259><loc0840><loc0954> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2859453_03178041363785_17624997_GHS_Symbol_EXCLAMATION_MARK_jpg.rf.836752141beddc87d1f88c6b1bc2ae09.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0440><loc0565><loc0537><loc0656> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_26UN_transport_pictogram_-_2_-white-_svg_png.rf.8b57f2fcb561a43b61d070d577348096.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0012><loc0012><loc1023><loc1023> flammable",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_30UN_transport_pictogram_-_5_2_-white-_svg_png.rf.5a9c916fe5df5f129cf29eb32f0aadb3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0012><loc0012><loc1023><loc1023> oxidizer",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8068_jpg.rf.85ff0ebf54064c0fe7a2e7674f8f697d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0461><loc0441><loc0568><loc0512> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8195_jpg.rf.03ea5c8daef68ab1e428c3bc19a26e15.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0228><loc0482><loc0477><loc0735> toxic ; <loc0130><loc0369><loc0395><loc0622> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8207_jpg.rf.065e36b7341f176c2801cbbaa620e1bf.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0463><loc0437><loc0578><loc0578> toxic ; <loc0292><loc0340><loc0469><loc0476> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1233404_00000096083819_5528494_GHS_Symbol_FLAME_png.rf.86883617e33e57c2332a9b98f858bfe9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0819><loc0367><loc0911><loc0410> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2611584_08006540397749_17231565_GHS_Symbol_ENVIRONMENT_png.rf.125a3d8165238b60a10d14e9586ad45e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0142><loc0634><loc0227><loc0714> harmful ; <loc0233><loc0630><loc0315><loc0713> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8097_jpg.rf.ea1a9c22b2df7ea6c16ac9438f320015.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0425><loc0611><loc0527><loc0678> harmful ; <loc0469><loc0471><loc0587><loc0576> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8188_jpg.rf.f3152fc10dbc4f6f1664d683a9ff88c8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0549><loc0511><loc0630><loc0605> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8085_jpg.rf.d89bf22ce16e5145d8070f31b1785b87.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0512><loc0659><loc0572><loc0687> harmful ; <loc0556><loc0444><loc0639><loc0505> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2237950_08710447443439_2026694_GHS_Symbol_CORROSION_png.rf.4c1c2e07318c5ecea39fda2b5ef4a95c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0418><loc0187><loc0506><loc0271> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2758647_08700216234566_17231722_GHS_Symbol_ENVIRONMENT_png.rf.538465e1f9845e2e09ff290e1eb44a0c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0160><loc0237><loc0294><loc0370> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2769654_08700216343718_17228777_GHS_Symbol_ENVIRONMENT_png.rf.7ebc39f0f2f0472c0e18ae4f71ea2976.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0661><loc0065><loc0796><loc0196> harmful ; <loc0800><loc0062><loc0935><loc0196> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2520585_00000059013655_4394661_GHS_Symbol_FLAME_png.rf.5b2a688dd85e613fb48c8025fa3f6853.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0860><loc0470><loc0943><loc0547> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2825462_08700216613538_17432558_GHS_Symbol_EXCLAMATION_MARK_png.rf.b3e1196017927c3021a465620628a9d6.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0658><loc0652><loc0722><loc0716> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8185_jpg.rf.80f8c78c9ab435f5942021e646103766.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0382><loc0492><loc0470><loc0599> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8181_jpg.rf.699326cac3886ee51b525a27a2b2387d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0437><loc0571><loc0521><loc0656> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8064_jpg.rf.99ea7e1043429213fd587d221adb95ad.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0483><loc0408><loc0629><loc0553> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2725591_08700216120005_17231297_GHS_Symbol_CORROSION_png.rf.4e8fcce057878c589627ce7c8f15300e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0227><loc0072><loc0388><loc0233> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2517412_08720181010835_1716876_GHS_Symbol_CORROSION_png.rf.706bf9bd8076a5b7ed8c44781d58325f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0715><loc0353><loc0812><loc0401> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8184_jpg.rf.fc28036e68b83bc5290bb408611f0bfa.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0376><loc0478><loc0459><loc0567> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2517410_08720181010842_1111099_GHS_Symbol_CORROSION_png.rf.df3f6635f6e9401d281046d745e0dddc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0717><loc0355><loc0812><loc0401> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8291_jpg.rf.aac2207e8f8fa3ca140124a499562a38.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0461><loc0101><loc0568><loc0270> explosive ; <loc0535><loc0519><loc0616><loc0683> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2859521_03178041363976_17628176_GHS_Symbol_EXCLAMATION_MARK_jpg.rf.836b8c33a555e3d72fe28fd1a4be0cdc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0570><loc0203><loc0714><loc0346> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8111_jpg.rf.4eda4fec76edc0e8bec6e72ad0d1b997.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0591><loc0473><loc0637><loc0492> harmful ; <loc0566><loc0356><loc0618><loc0383> oxidizer ; <loc0590><loc0601><loc0623><loc0660> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2584559_08720181248221_16703923_GHS_Symbol_CORROSION_png.rf.3a89066fab47d0669e4e693fefce8243.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0384><loc0640><loc0478><loc0732> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8291_jpg.rf.a4f0e3a0152c0d17f46c7df8a51b115c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0552><loc0007><loc0669><loc0188> explosive ; <loc0526><loc0431><loc0618><loc0602> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8177_jpg.rf.f578b7139a8f128b60b7f5ddbb539e0a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0608><loc0316><loc0700><loc0427> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_622727_03014230000201_5710900_GHS_Symbol_FLAME_png.rf.238db123edbb09d543dc75fd56538e3e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0749><loc0421><loc0813><loc0462> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2858929_03178041363693_17624904_GHS_Symbol_EXCLAMATION_MARK_jpeg.rf.132c942711b832c0daf3139e0b7e21d3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0505><loc0043><loc0616><loc0150> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_test_ghs05-5-_png.rf.c8eb31568f241a0867b3e98821d8108a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0330><loc0218><loc0600><loc0751> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8040_jpg.rf.de9fa0b6df756aa9dffa4ae10728da72.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0204><loc0459><loc0260><loc0494> harmful ; <loc0219><loc0559><loc0288><loc0621> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8111_jpg.rf.24bdb94d1b3e86182ce3731a2dd8bc1b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0584><loc0592><loc0630><loc0620> harmful ; <loc0574><loc0469><loc0628><loc0508> oxidizer ; <loc0560><loc0716><loc0600><loc0782> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8158_jpg.rf.58f0fd0687ede462094d2800dab86545.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0286><loc0391><loc0424><loc0497> harmful ; <loc0286><loc0520><loc0455><loc0692> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8095_jpg.rf.a6bec6f91c0dc655c7335d17c7747030.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0608><loc0624><loc0666><loc0657> harmful ; <loc0660><loc0442><loc0737><loc0506> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8116_jpg.rf.fd052d65f9e6f8ecff94b732a750236c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0274><loc0246><loc0414><loc0375> harmful ; <loc0326><loc0141><loc0447><loc0222> oxidizer ; <loc0243><loc0417><loc0382><loc0543> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs02-8-_png.rf.c581bce3eb79b33438dda5c8d1e9ab81.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_8GHS-pictogram-silhouette_svg_png.rf.20684ea5341f63bd7753899cfe46b0e4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> health_hazard",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8165_jpg.rf.16522c4dfa0a6b256c38ffd32dcc3a6a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0363><loc0416><loc0580><loc0600> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2833499_08700216654135_17432633_GHS_Symbol_ENVIRONMENT_png.rf.87e1a7f86b92b82e34c04be09324347c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0263><loc0496><loc0333><loc0564> environmental ; <loc0334><loc0496><loc0400><loc0564> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8018_jpg.rf.d29f4eb4b48e1942e901dd960adb4fc5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0528><loc0469><loc0574><loc0488> harmful ; <loc0421><loc0463><loc0476><loc0506> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1090374_08712561019354_16217494_GHS_Symbol_CORROSION_png.rf.6c2f38b44e086ab51ec60ccf0688fad6.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0677><loc0366><loc0745><loc0432> corrosive ; <loc0758><loc0366><loc0826><loc0434> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8104_jpg.rf.232784990f4587ca1f2ea2d6de38a90f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0411><loc0532><loc0482><loc0572> harmful ; <loc0459><loc0302><loc0558><loc0379> oxidizer ; <loc0369><loc0669><loc0414><loc0708> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8129_jpg.rf.e4519d1e838bb93c645e75a984315d36.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0597><loc0442><loc0650><loc0482> harmful ; <loc0573><loc0290><loc0628><loc0348> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8192_jpg.rf.b454c22e8cf138beef4f2359dd090e6e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0539><loc0309><loc0660><loc0446> toxic ; <loc0408><loc0254><loc0552><loc0373> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8242_jpg.rf.3579327669f17905994c9576164a8ad3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0484><loc0438><loc0564><loc0526> environmental ; <loc0451><loc0269><loc0531><loc0319> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2859706_03700992605357_17385558_GHS_Symbol_CORROSION_jpg.rf.1571169795749ed4062e5a1cc45be0cf.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0398><loc0340><loc0485><loc0427> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11164_2801953_03517360026627_16664374_GHS_Symbol_FLAME_png.rf.485579d0e4d96f55d3841d281d364e94.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0890><loc0532><loc0950><loc0581> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2836721_08700216681537_17323767_GHS_Symbol_EXCLAMATION_MARK_png.rf.75177268156ff615f42ffb1fda148f24.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0648><loc0576><loc0720><loc0646> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2607703_08720181347245_14400883_GHS_Symbol_FLAME_png.rf.83e1185b184bed7fb41a5daca9a096fc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0884><loc0476><loc0965><loc0558> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2540129_08001090946942_16312925_GHS_Symbol_ENVIRONMENT_png.rf.c06e2e6ffec8a5890a0e1e8b49bab42e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0375><loc0854><loc0470><loc0944> harmful ; <loc0477><loc0850><loc0572><loc0944> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8061_jpg.rf.396473eea3cce9c4864e761075f8b5b5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0436><loc0394><loc0539><loc0466> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8087_jpg.rf.5090c2c15b7a140ce5bd720f1a9be169.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0369><loc0559><loc0552><loc0743> harmful ; <loc0296><loc0350><loc0491><loc0551> oxidizer ; <loc0449><loc0731><loc0576><loc0801> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760746_08700216318877_17409684_GHS_Symbol_CORROSION_png.rf.a0bae3e43678851509bbb6b8b503cf22.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0291><loc0103><loc0408><loc0222> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8107_jpg.rf.53cefb19517e472aacbcda96f26c4667.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0550><loc0551><loc0674><loc0688> harmful ; <loc0511><loc0389><loc0639><loc0529> oxidizer ; <loc0566><loc0704><loc0658><loc0776> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2769635_08700216343695_17024062_GHS_Symbol_ENVIRONMENT_png.rf.64bca2a303fee0416cfea17dd462673d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0663><loc0064><loc0797><loc0196> harmful ; <loc0800><loc0065><loc0933><loc0197> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2731275_08700216110587_17231286_GHS_Symbol_EXCLAMATION_MARK_png.rf.da07919842e5694b59d7c16a20023fd2.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0632><loc0640><loc0711><loc0714> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8235_jpg.rf.c3c6e1301a387aee7859197a729507ee.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0468><loc0546><loc0539><loc0628> toxic ; <loc0362><loc0513><loc0449><loc0575> oxidizer ; <loc0576><loc0549><loc0638><loc0612> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8013_jpg.rf.d857f4a82ea9ec0e5e9ea4e1f90b7beb.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0305><loc0419><loc0532><loc0642> flammable ; <loc0483><loc0478><loc0688><loc0691> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2824426_08700216703598_17627198_GHS_Symbol_CORROSION_png.rf.578e917aba910dfb431e91b7abc3e071.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0321><loc0072><loc0413><loc0164> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2529637_00000059019138_2256948_GHS_Symbol_FLAME_png.rf.a124b781ee52fbed05ae6eb0f278d8a2.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0739><loc0402><loc0819><loc0442> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8271_jpg.rf.01f2d2efb77b2cb14dcc3a756a461142.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0343><loc0166><loc0481><loc0318> toxic ; <loc0432><loc0520><loc0566><loc0691> explosive ; <loc0526><loc0886><loc0641><loc1023> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8256_jpg.rf.d1faf57109c082b0d417c1d36fc8a303.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0382><loc0418><loc0505><loc0548> environmental ; <loc0000><loc0324><loc0156><loc0462> oxidizer ; <loc0162><loc0398><loc0322><loc0566> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760181_08700216319171_17620063_GHS_Symbol_CORROSION_png.rf.2e63bb264453ae2cf0f76d1da6c106e1.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0654><loc0350><loc0723><loc0420> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8113_jpg.rf.e368f042cf4bf0861665cded60aeb072.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0488><loc0443><loc0537><loc0462> harmful ; <loc0458><loc0343><loc0508><loc0364> oxidizer ; <loc0512><loc0568><loc0549><loc0633> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2587879_08720181248238_16703927_GHS_Symbol_CORROSION_png.rf.4f89d74ad8df751c7d5483e746de03d2.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0397><loc0639><loc0489><loc0733> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8168_jpg.rf.ff4fa51a66cc3e2209c63f145c3bda29.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0510><loc0400><loc0590><loc0492> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_25ADR_8_svg_png.rf.3d066d28aca3ae04b73223c28ef3fe70.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> corrosive",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_5GHS-pictogram-acid_svg_png.rf.9ed73b8cd1b63c89ee941c13ae469988.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> corrosive",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8181_jpg.rf.699326cac3886ee51b525a27a2b2387d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0437><loc0571><loc0521><loc0656> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8094_jpg.rf.1abde32ff4b65810fa46e6bccbcc8a77.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0564><loc0638><loc0707><loc0774> harmful ; <loc0578><loc0419><loc0730><loc0579> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8179_jpg.rf.9a378225cd0055d7267e973804ef9cef.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0500><loc0412><loc0573><loc0504> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8383_jpg.rf.bd56790854708c56f1f5031dd98bb742.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0336><loc0610><loc0613><loc0762> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2554504_08720181077685_3849690_GHS_Symbol_FLAME_png.rf.cfc5c5e35bd5f26a1e7290991e2d2e6f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0870><loc0614><loc0946><loc0648> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8216_jpg.rf.d070a9cdc86f7b8965e799b541014215.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0485><loc0443><loc0602><loc0580> toxic ; <loc0406><loc0311><loc0552><loc0426> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8015_jpg.rf.04abe150a545660ae981ec510a406824.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0539><loc0548><loc0609><loc0581> harmful ; <loc0395><loc0564><loc0485><loc0628> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2598491_08720181288982_16659946_GHS_Symbol_CORROSION_png.rf.53373eb03ea87f61ac7e6ddc01c7f99b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0787><loc0410><loc0855><loc0478> corrosive ; <loc0790><loc0483><loc0858><loc0551> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_test_IMG_8033_jpg.rf.e3b84b457f36caaa1f8b8c67fcbd6d7c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0644><loc0403><loc0719><loc0512> harmful ; <loc0632><loc0513><loc0711><loc0612> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs-11-_png.rf.b5009ef8fa6153988f57632f9e71f6b9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0318><loc0456><loc0766><loc0697> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2758644_08700216234764_17228673_GHS_Symbol_ENVIRONMENT_png.rf.4f3d37bd2d5d9d8b75d0e757af0f75ef.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0142><loc0239><loc0280><loc0372> harmful ; <loc0284><loc0240><loc0415><loc0369> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760762_08700216332989_17231798_GHS_Symbol_CORROSION_png.rf.7f65a6da4ed1a7a7941e0915d7368771.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0217><loc0060><loc0376><loc0219> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs06_-1-_png.rf.e2b11e90ceb5cb93b66f569af19f96be.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2607705_08000630040843_14400769_GHS_Symbol_FLAME_png.rf.cfd62a4c7b4d4c844a57a7f5b3a828b6.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0884><loc0476><loc0965><loc0558> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_2GHS-pictogram-flamme_svg_png.rf.a5abb2731c9386a23b6fa58516630dda.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> flammable",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_9GHS-pictogram-pollu_svg_png.rf.02b49bfb7a2f703513d3619be7a0d3f7.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> environmental",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_14ADR_1_6_svg_png.rf.d8174f568c9a664a95f5f642d468ab92.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> explosive",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8076_jpg.rf.68bd921e1f450b614ba3af9b4fefe2f3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0525><loc0492><loc0632><loc0544> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8202_jpg.rf.04247bbe4bd8a593dd8cca0cd42b7a6d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0408><loc0527><loc0516><loc0635> toxic ; <loc0252><loc0448><loc0418><loc0572> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2825691_08720181548390_17334954_GHS_Symbol_FLAME_jpg.rf.0d244dab133e95d8d33354d3fd202f47.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0773><loc0439><loc0853><loc0504> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8041_jpg.rf.7aade9d82cbe6b32723a39e8351f05bd.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0223><loc0296><loc0341><loc0406> harmful ; <loc0214><loc0400><loc0336><loc0530> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2788570_08720181489433_17171074_GHS_Symbol_EXCLAMATION_MARK_png.rf.44efc3c0de4218110cdfa82a972554f8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0581><loc0746><loc0672><loc0826> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8232_jpg.rf.91c3250f3fdfcf1b40c50255275a4e92.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0482><loc0549><loc0611><loc0700> toxic ; <loc0295><loc0468><loc0462><loc0583> oxidizer ; <loc0630><loc0573><loc0743><loc0680> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs-22-_png.rf.c479019603c125da63230c31f1579834.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2862122_03178041363921_17628109_GHS_Symbol_EXCLAMATION_MARK_jpg.rf.9822a8a87870f1d779b240fe53657f4f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0611><loc0211><loc0705><loc0303> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs05-4-_png.rf.afbed2db1157b230f275a0da26f301c5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0195><loc0162><loc0655><loc0767> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2833502_08700216654111_17432227_GHS_Symbol_ENVIRONMENT_png.rf.ada1275ab6686467bab4c0b6f6760c71.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0073><loc0225><loc0161><loc0310> harmful ; <loc0182><loc0222><loc0268><loc0308> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_ghs-17-_png.rf.4780eeb3bebf090c0b32b31a9c1c7994.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0280><loc0468><loc0718><loc0609> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_test_6GHS-pictogram-skull_svg_png.rf.0b2873e5a51a757c44e14d25137abd02.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> toxic",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_31ADR_6_2_svg_png.rf.a7b542fb3623a2a9dc6ae9094176ea4e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0012><loc0012><loc1023><loc1023> toxic",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8240_jpg.rf.4777e41d6e7bb0c68a5c76b18b04dca4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0337><loc0414><loc0561><loc0635> environmental ; <loc0305><loc0228><loc0532><loc0441> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760309_08700216319133_17340539_GHS_Symbol_CORROSION_png.rf.3103419871d32ad58fcf0b17f666d668.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0654><loc0352><loc0724><loc0423> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8227_jpg.rf.6d435c2db52e605d2afd3dba7e0b87c9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0350><loc0714><loc0455><loc0821> toxic ; <loc0196><loc0699><loc0319><loc0798> oxidizer ; <loc0491><loc0674><loc0586><loc0770> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs05-4-_png.rf.afbed2db1157b230f275a0da26f301c5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0195><loc0162><loc0655><loc0767> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2832079_08700216660242_17444688_GHS_Symbol_EXCLAMATION_MARK_png.rf.030284acf1277917dd7f641f2818f261.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0583><loc0608><loc0683><loc0705> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8200_jpg.rf.de8f86ac1d6563d1ce0b438effcd8769.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0444><loc0465><loc0560><loc0606> toxic ; <loc0289><loc0346><loc0467><loc0475> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2751234_08700216267359_17620059_GHS_Symbol_CORROSION_png.rf.95701b62bedbe8260fce9c0cf869721f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0341><loc0078><loc0432><loc0168> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2375567_08717163658659_1330453_GHS_Symbol_CORROSION_png.rf.8b4951371563bdccd207fcd1b8cd24c0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0729><loc0464><loc0813><loc0550> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2797580_08720181525995_16571180_GHS_Symbol_CORROSION_png.rf.c06521c1c81d1815966120c6aefd9a9b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0756><loc0428><loc0816><loc0488> corrosive ; <loc0827><loc0430><loc0886><loc0488> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2825670_08720181555664_17165761_GHS_Symbol_FLAME_png.rf.5e3b2983ecdf91c502c53a5da89a25d3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0809><loc0599><loc0909><loc0664> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8102_jpg.rf.f9020702151b2afb469d5e9ae72ac1dc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0416><loc0576><loc0475><loc0609> harmful ; <loc0445><loc0377><loc0517><loc0433> oxidizer ; <loc0385><loc0722><loc0425><loc0764> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2768917_08700216313582_17439447_GHS_Symbol_CORROSION_png.rf.d31bbaec240cb6adf5a655e0d67a80cc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0624><loc0140><loc0706><loc0224> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs06-3-_png.rf.2e3490e236af975fdee367b34ce24905.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0251><loc0278><loc0750><loc0819> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs02-16-_png.rf.99cc4fe82db5d89bc00ec204d2ed57ce.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0178><loc0320><loc0754><loc0832> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8207_jpg.rf.b535b6609757c38638ebc8fde75fb25f.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0438><loc0373><loc0566><loc0533> toxic ; <loc0335><loc0226><loc0521><loc0393> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8073_jpg.rf.433a31f5baacfb22a0ce619e11591496.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0382><loc0446><loc0512><loc0559> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8177_jpg.rf.3ea0bc716b2cbd565b421566efa1d8fd.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0605><loc0431><loc0698><loc0536> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2607704_08720181347238_14400797_GHS_Symbol_FLAME_png.rf.14465ad027eea30ec0ddb6051ca94a5b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0883><loc0476><loc0964><loc0558> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2845557_08720181665172_17381994_GHS_Symbol_EXCLAMATION_MARK_png.rf.1ae3814232eb1b82ae295deb232faa82.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0472><loc0567><loc0566><loc0653> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8372_jpg.rf.b77edd95e6a6e76af2a40d3c7ae9fac0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0282><loc0559><loc0548><loc0766> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8119_jpg.rf.518c599da692a03b15ff6d34f8734a56.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0267><loc0544><loc0328><loc0577> harmful ; <loc0226><loc0332><loc0302><loc0392> oxidizer ; <loc0314><loc0683><loc0356><loc0725> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2550273_08720181131035_16297484_GHS_Symbol_FLAME_png.rf.65b7d890cfedcecd6f170a2fb1e92e01.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0850><loc0611><loc0942><loc0662> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2569467_08006540168165_16611301_GHS_Symbol_EXCLAMATION_MARK_png.rf.78e83d2360702eb0ca58174442f45cc7.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0559><loc0612><loc0640><loc0693> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_21ADR_4_3_svg_png.rf.f2228c6bfa8a0a518246acbf759bacf7.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> flammable",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2822792_08700216636636_17462076_GHS_Symbol_CORROSION_png.rf.72f2457fe3dbc4134c1bad7e1f52d6b6.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0644><loc0127><loc0709><loc0197> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_23UN_transport_pictogram_-_5_2_-black-_svg_png.rf.282f61b82d8d117e1268eb2fcb47a274.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> oxidizer",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8230_jpg.rf.f5b63a53275a317b06f0117259f1b3b4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0451><loc0268><loc0659><loc0479> toxic ; <loc0311><loc0270><loc0520><loc0476> oxidizer ; <loc0585><loc0208><loc0800><loc0417> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760733_08700216313247_17439433_GHS_Symbol_CORROSION_png.rf.cac29de5983c4f75f69e4d64c8901aa9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0652><loc0124><loc0717><loc0189> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2840390_08700216759274_17580782_GHS_Symbol_CORROSION_png.rf.8f0b7a0ff982e030661e5ea89b348747.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0831><loc0625><loc0907><loc0696> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8190_jpg.rf.e0aab584abff07ef55b636e8249726fa.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0466><loc0484><loc0622><loc0663> toxic ; <loc0270><loc0363><loc0488><loc0554> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_test_17ADR_2_3_svg_png.rf.27d6b8801c6b840cc315aed73b499d02.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0006><loc0006><loc1023><loc1023> toxic",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8235_jpg.rf.900d8ddbdbc5f2efa319433ada0c0c8d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0460><loc0458><loc0539><loc0546> toxic ; <loc0362><loc0428><loc0452><loc0499> oxidizer ; <loc0570><loc0455><loc0639><loc0525> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8381_jpg.rf.12b0782ec96a133e617c9c97c8d60282.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0166><loc0206><loc0917><loc0947> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1183696_08712561022422_15254829_GHS_Symbol_CORROSION_png.rf.efc15ed1cae0ae42ca912e60a94a73f6.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0679><loc0368><loc0746><loc0433> corrosive ; <loc0760><loc0368><loc0827><loc0434> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_845035_03181730185407_15956625_GHS_Symbol_FLAME_png.rf.00c9b1a5a1fd0fe9c377d4bc68f4e71e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0840><loc0416><loc0900><loc0455> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2772307_08720181418389_16881223_GHS_Symbol_FLAME_png.rf.dcdf05f961209439c8206bb3d53c7ed5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0790><loc0668><loc0887><loc0684> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8108_jpg.rf.130c49d4e968157cc8403a1c009d337e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0598><loc0429><loc0707><loc0547> harmful ; <loc0567><loc0283><loc0675><loc0390> oxidizer ; <loc0603><loc0583><loc0695><loc0646> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8128_jpg.rf.546de779168d79504e32dcab44cc9400.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0596><loc0603><loc0638><loc0616> harmful ; <loc0605><loc0440><loc0655><loc0474> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2859214_03178041364324_17541592_GHS_Symbol_EXCLAMATION_MARK_jpg.rf.9af598c02e3938ea3e38e0b5990a8031.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0469><loc0054><loc0576><loc0160> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8105_jpg.rf.9a87c92a832b6f56f9a91eab9289da93.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0445><loc0539><loc0512><loc0570> harmful ; <loc0443><loc0313><loc0530><loc0376> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8108_jpg.rf.63f0a5678ec58df9b32b64ec9c901370.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0566><loc0383><loc0678><loc0510> harmful ; <loc0533><loc0240><loc0644><loc0358> oxidizer ; <loc0573><loc0537><loc0667><loc0610> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8242_jpg.rf.d8745331e2e60b6320b77c3fa57c2cda.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0501><loc0521><loc0584><loc0619> environmental ; <loc0437><loc0347><loc0517><loc0410> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2603321_08006540829875_16939193_GHS_Symbol_ENVIRONMENT_png.rf.4b56f7b321d0562a4b99741d5c81a174.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0336><loc0639><loc0424><loc0725> harmful ; <loc0244><loc0640><loc0332><loc0726> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_IMG_8150_jpg.rf.497eb2ced2a895d4acb8c7f4a58ff331.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0420><loc0228><loc0517><loc0245> harmful ; <loc0443><loc0437><loc0600><loc0621> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8041_jpg.rf.7aade9d82cbe6b32723a39e8351f05bd.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0223><loc0296><loc0341><loc0406> harmful ; <loc0214><loc0400><loc0336><loc0530> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8158_jpg.rf.9edd7178ec9c530d2cd8097457be7ac3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0244><loc0348><loc0383><loc0462> harmful ; <loc0243><loc0473><loc0416><loc0654> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8090_jpg.rf.82d2d9e507185ef9bdc7d872de86c76d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0299><loc0704><loc0437><loc0824> harmful ; <loc0213><loc0540><loc0376><loc0706> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_test_IMG_8056_jpg.rf.ba03e357de908e37532fed6c707b4380.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0420><loc0403><loc0484><loc0448> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8119_jpg.rf.ab39c3c3703ac0c9872eeca70f03bfc1.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0295><loc0403><loc0358><loc0440> harmful ; <loc0336><loc0200><loc0417><loc0263> oxidizer ; <loc0281><loc0543><loc0327><loc0585> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2835830_08700216742191_17387464_GHS_Symbol_CORROSION_png.rf.976e0a60f3f842677640de1dbdd063f8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0636><loc0835><loc0741><loc0923> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8246_jpg.rf.596db4790dc7391f06f1337106f06358.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0482><loc0372><loc0569><loc0456> environmental ; <loc0504><loc0227><loc0587><loc0263> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2775886_08720181485886_17114259_GHS_Symbol_EXCLAMATION_MARK_png.rf.856c50bc690d1087aafbe48a3a104d51.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0429><loc0500><loc0510><loc0576> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1474137_00000096106617_689616_GHS_Symbol_FLAME_png.rf.ea4efd0e77ece9134bfe88d5ad565148.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0770><loc0345><loc0880><loc0386> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs09-7-_png.rf.11b52807db0a7f34931c3030686ea9cc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0299><loc0276><loc0807><loc0763> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8188_jpg.rf.543ea327bbb1e19e1269bc52be56f80e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0524><loc0535><loc0616><loc0647> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760198_08700216254267_17230421_GHS_Symbol_CORROSION_png.rf.e9e5665d1af26da3d9c9d20cfb42d706.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0791><loc0660><loc0888><loc0732> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8028_jpg.rf.d738c91f2a1891caf0824e904b60773a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0422><loc0514><loc0477><loc0535> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8117_jpg.rf.3fe67e0eacfee4c93e6232e0723898ff.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0255><loc0414><loc0412><loc0566> harmful ; <loc0250><loc0261><loc0387><loc0370> oxidizer ; <loc0296><loc0610><loc0439><loc0724> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8240_jpg.rf.82a87c3c8e0ef74b8ca546de77c19afe.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0399><loc0342><loc0600><loc0558> environmental ; <loc0375><loc0156><loc0579><loc0362> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8102_jpg.rf.41639129f6f45ad0724ad1fa7a609f06.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0482><loc0593><loc0538><loc0620> harmful ; <loc0470><loc0397><loc0539><loc0444> oxidizer ; <loc0483><loc0738><loc0521><loc0776> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2529637_00000059019138_2256948_GHS_Symbol_FLAME_png.rf.a124b781ee52fbed05ae6eb0f278d8a2.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0739><loc0402><loc0819><loc0442> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2598503_08720181289521_16659948_GHS_Symbol_CORROSION_png.rf.9991d94ce4df0555d03663f9f6d6f575.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0788><loc0409><loc0856><loc0478> corrosive ; <loc0788><loc0482><loc0856><loc0552> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs09-5-_png.rf.10cadaae9a54b7781be5c3da7460f741.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0305><loc0301><loc0762><loc0763> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2576765_08720181192142_3724559_GHS_Symbol_FLAME_png.rf.a0fb720d165b97bf64b8d25ec586b491.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0870><loc0615><loc0947><loc0647> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2861302_05410091642075_17134958_GHS_Symbol_FLAME_jpeg.rf.6b106cb4c65099789cd9e39796fb336a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0735><loc0413><loc0797><loc0455> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_31ADR_6_2_svg_png.rf.91f1fb1530bf9d21b433a8475172c887.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> toxic",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_2GHS-pictogram-flamme_svg_png.rf.cad7324cc2cc416a05b72696c88319c5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> flammable",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8191_jpg.rf.8de861815307db307da67264f15bb39d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0294><loc0313><loc0588><loc0607> toxic ; <loc0187><loc0236><loc0463><loc0422> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8169_jpg.rf.d39952bfa5ea455875ca15ac604fbc21.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0426><loc0444><loc0617><loc0637> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8144_jpg.rf.931e0b1886560d140470498bd2a03532.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0222><loc0425><loc0382><loc0593> harmful ; <loc0280><loc0606><loc0446><loc0779> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8381_jpg.rf.12b0782ec96a133e617c9c97c8d60282.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0166><loc0206><loc0917><loc0947> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8157_jpg.rf.7565d592ce9af95c041688becbf29a22.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0208><loc0419><loc0346><loc0513> harmful ; <loc0179><loc0516><loc0376><loc0711> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8069_jpg.rf.9a1761b5ef4a021204ab0d4e841a90a0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0460><loc0439><loc0593><loc0551> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8113_jpg.rf.f4d7c97581380d40368ee0c24d0c7af9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0507><loc0422><loc0557><loc0441> harmful ; <loc0480><loc0321><loc0531><loc0341> oxidizer ; <loc0526><loc0548><loc0564><loc0612> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8069_jpg.rf.9a1761b5ef4a021204ab0d4e841a90a0.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0460><loc0439><loc0593><loc0551> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_10ADR_1_svg_png.rf.010f9648af751f0578eba7a513b38396.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> explosive",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2550272_08720181131066_16297493_GHS_Symbol_FLAME_png.rf.2b7813160af708392b6ef3b42410e445.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0851><loc0612><loc0942><loc0666> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_valid_ghs-14-_png.rf.8f26399f35b009708fc13a8d6fcc57e4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0321><loc0466><loc0760><loc0602> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2831446_08700216710565_17371619_GHS_Symbol_CORROSION_png.rf.98b4aa21d8f68d96edca24df88b8f945.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0645><loc0418><loc0719><loc0496> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8140_jpg.rf.dac4c95bc7e48b131cd07fd0ad860e99.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0401><loc0442><loc0477><loc0491> harmful ; <loc0445><loc0612><loc0511><loc0717> corrosive ; <loc0336><loc0297><loc0415><loc0349> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2767504_08720181457302_16002374_GHS_Symbol_FLAME_png.rf.5f359c037a9563dfc2571ffc86111f41.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0893><loc0467><loc0962><loc0535> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8249_jpg.rf.db74a4008ca5b9ef95e21137f3d30f3c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0515><loc0456><loc0583><loc0536> environmental ; <loc0583><loc0307><loc0645><loc0358> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760268_08700216254410_17229233_GHS_Symbol_CORROSION_png.rf.c1a15e9556fe0d03d5978351d5b65b90.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0832><loc0624><loc0910><loc0696> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1233405_00000096095027_12486558_GHS_Symbol_FLAME_png.rf.420b3c33c2fcdbcf09f2a144d4d8141b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0761><loc0372><loc0850><loc0412> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8064_jpg.rf.0773f97bc0a372e8935a974b08fb8815.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0516><loc0453><loc0669><loc0613> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8235_jpg.rf.6b87287b24253fac6cfedc01c1979b5b.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0486><loc0463><loc0559><loc0542> toxic ; <loc0380><loc0448><loc0467><loc0508> oxidizer ; <loc0594><loc0443><loc0658><loc0506> environmental",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1839809_08710908615979_16217534_GHS_Symbol_CORROSION_png.rf.bc3dc8207f89d45cf395caa402d82d65.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0423><loc0245><loc0541><loc0362> corrosive ; <loc0546><loc0247><loc0664><loc0364> environmental",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2543912_08720181077678_16217665_GHS_Symbol_FLAME_png.rf.b537ab2a772c5edd850fd0db68a791f7.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0867><loc0616><loc0950><loc0648> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8185_jpg.rf.7e08f9eb6f4aca621df64ee10d02c0af.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0427><loc0474><loc0539><loc0600> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2782383_08720181462603_16091008_GHS_Symbol_CORROSION_png.rf.0ccfc82609c14763e115bc6caf1ec156.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0590><loc0503><loc0680><loc0586> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8179_jpg.rf.82bf6935a06e4323a3b75164db658ca4.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0468><loc0464><loc0557><loc0565> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8195_jpg.rf.03ea5c8daef68ab1e428c3bc19a26e15.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0228><loc0482><loc0477><loc0735> toxic ; <loc0130><loc0369><loc0395><loc0622> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_test_IMG_8293_jpg.rf.56afb17fe488fede378aaa47ac4eedfb.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0447><loc0000><loc0711><loc0277> explosive ; <loc0416><loc0454><loc0640><loc0681> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8112_jpg.rf.de5c3461ead06b7739c13fecd355b738.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0480><loc0465><loc0580><loc0559> harmful ; <loc0461><loc0390><loc0549><loc0444> oxidizer ; <loc0487><loc0597><loc0596><loc0708> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs04-1-_png.rf.145d30fb3572bb4c499a9e042cd2b9d9.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0315><loc0228><loc0632><loc0761> compressed_gas",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8282_jpg.rf.e774a4c0d54e11f022d01da978edfc7c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0651><loc0243><loc0785><loc0406> toxic ; <loc0549><loc0603><loc0658><loc0744> explosive ; <loc0486><loc0871><loc0560><loc0978> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_1233408_00000096080900_16272945_GHS_Symbol_FLAME_png.rf.7aa509564305daba5c17980abb8a2056.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0857><loc0474><loc0952><loc0566> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2769104_04987176176691_17117190_GHS_Symbol_EXCLAMATION_MARK_png.rf.b24933f62273e4fa7ded53ecbe37851a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0225><loc0726><loc0344><loc0842> flammable ; <loc0224><loc0846><loc0342><loc0968> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs06-1-_png.rf.70fd1296d7a03f8525d53e4a05d0439a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1006><loc1023> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_ghs02-16-_png.rf.99cc4fe82db5d89bc00ec204d2ed57ce.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0178><loc0320><loc0754><loc0832> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8282_jpg.rf.fac736965c4ecb560ff946c119212931.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0659><loc0120><loc0799><loc0290> toxic ; <loc0560><loc0501><loc0674><loc0649> explosive ; <loc0499><loc0787><loc0577><loc0897> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_31ADR_6_2_svg_png.rf.91f1fb1530bf9d21b433a8475172c887.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> toxic",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_15365_2859456_03178041364355_17625366_GHS_Symbol_EXCLAMATION_MARK_jpg.rf.4c8306527e7652d28b54f281bb2f289e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0499><loc0346><loc0577><loc0424> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8121_jpg.rf.daa684da2dac919be15e0de2a05c8afd.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0455><loc0489><loc0505><loc0514> harmful ; <loc0412><loc0330><loc0485><loc0384> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2760762_08700216332989_17231798_GHS_Symbol_CORROSION_png.rf.7f65a6da4ed1a7a7941e0915d7368771.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0217><loc0060><loc0376><loc0219> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2807926_08700216270397_17439374_GHS_Symbol_EXCLAMATION_MARK_png.rf.75dfed1963ed44a4f51feef0e53d24d3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0607><loc0597><loc0690><loc0682> harmful",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8083_jpg.rf.7e174a61c7da02fb44013f60749836c8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0403><loc0713><loc0529><loc0790> harmful ; <loc0409><loc0549><loc0570><loc0695> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2840388_08700216759373_17580805_GHS_Symbol_CORROSION_png.rf.95c195d8879b4ab5d36aef8406bfa108.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0791><loc0696><loc0864><loc0761> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8031_jpg.rf.7467e2d027ff3c40f2956e93a2b3e309.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0635><loc0461><loc0686><loc0487> harmful ; <loc0601><loc0575><loc0660><loc0618> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_26UN_transport_pictogram_-_2_-white-_svg_png.rf.c98d89e9e3611d7fc79f18dc542eaaa3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> flammable",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_10144_2825674_08720181548413_17334988_GHS_Symbol_FLAME_jpg.rf.3ac8f01f9f4b7c61ad4a0df8e55f98c5.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0772><loc0438><loc0853><loc0505> flammable",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8169_jpg.rf.b6f28e1cf9efc3aa768c1171153316b8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0403><loc0526><loc0580><loc0681> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8118_jpg.rf.5112c9abcdbb1dd230b5e94af26943c3.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0298><loc0509><loc0369><loc0544> harmful ; <loc0285><loc0303><loc0364><loc0357> oxidizer ; <loc0330><loc0671><loc0375><loc0722> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8180_jpg.rf.63ae10563f2477d5df1f62038aaacc1c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0395><loc0519><loc0473><loc0603> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8037_jpg.rf.b8cd2a00ff8fe900f0eeb2ddd43726bc.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0370><loc0457><loc0418><loc0476> harmful ; <loc0386><loc0542><loc0440><loc0588> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8041_jpg.rf.7256e6f666ce0ead8a67f6fa43a5132d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0242><loc0296><loc0370><loc0425> harmful ; <loc0261><loc0397><loc0395><loc0546> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2763818_08700216361606_17586455_GHS_Symbol_CORROSION_png.rf.f0a930ebfb47437e1adcdc0eb209df45.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0424><loc0788><loc0534><loc0886> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\ghs_train_5GHS-pictogram-acid_svg_png.rf.9315f33dbcf5d2a22e9cf73f42ae9a0c.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0000><loc0000><loc1023><loc1023> corrosive",
+    "source": "ghs"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8170_jpg.rf.f5096013a2a6d339a1e98db0c8935596.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0429><loc0470><loc0507><loc0551> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\pictogram_train_11802_2808883_08700216584722_17231005_GHS_Symbol_CORROSION_png.rf.cdc5d2bd93195e55f956ee747a8d724d.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0819><loc0693><loc0892><loc0766> corrosive",
+    "source": "pictogram"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8195_jpg.rf.14e751f733131e808c35c43176e414ff.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0304><loc0523><loc0528><loc0751> toxic ; <loc0172><loc0446><loc0414><loc0672> health_hazard",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8375_jpg.rf.595b336230b6ef427d9609a1c74a5a72.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0075><loc0169><loc0760><loc0838> flammable",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8126_jpg.rf.fd5d839aea114fe52289ccc1e078aa3e.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0544><loc0590><loc0589><loc0618> harmful ; <loc0582><loc0438><loc0651><loc0491> oxidizer",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8188_jpg.rf.f3152fc10dbc4f6f1664d683a9ff88c8.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0549><loc0511><loc0630><loc0605> toxic",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8271_jpg.rf.d7b6bb461d82aac03b3c55f8a9493d6a.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0522><loc0081><loc0648><loc0227> toxic ; <loc0434><loc0440><loc0554><loc0606> explosive ; <loc0352><loc0810><loc0452><loc0972> corrosive",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8029_jpg.rf.2aa1e62f07c15919eff91d8fc61e7e42.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0393><loc0560><loc0454><loc0596> harmful",
+    "source": "gefahren"
+  },
+  {
+    "image_path": "./merged_dataset/images\\gefahren_train_IMG_8216_jpg.rf.15a528951a94b38fc5eb5c1c886e3c07.jpg",
+    "prefix": "detect ghs symbols",
+    "suffix": "<loc0459><loc0340><loc0566><loc0465> toxic ; <loc0328><loc0267><loc0469><loc0362> health_hazard",
+    "source": "gefahren"
+  }
+]

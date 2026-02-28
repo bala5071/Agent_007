@@ -1,0 +1,15 @@
+names:
+- GHS_Symbol_CORROSION
+- GHS_Symbol_ENVIRONMENT
+- GHS_Symbol_EXCLAMATION_MARK
+- GHS_Symbol_FLAME
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: ai-pictogram-docextract
+  url: https://universe.roboflow.com/gaia-i7wim/ai-pictogram-docextract/dataset/4
+  version: 4
+  workspace: gaia-i7wim
+test: ../test/images
+train: ../train/images
+val: ../valid/images

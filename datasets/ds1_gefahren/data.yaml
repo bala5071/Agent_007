@@ -1,0 +1,27 @@
+names:
+- No access for unauthorized persons
+- acute toxicity
+- corrosive
+- explosive
+- eye shower
+- fire extinguisher
+- fire hazard
+- first aid kit
+- flammable
+- gas under pressure
+- hazardous to the environment
+- health-ozone layer hazard
+- no GHS symbol
+- oxidising
+- serious health hazard
+- shower
+nc: 16
+roboflow:
+  license: CC BY 4.0
+  project: gefahrensymbole
+  url: https://universe.roboflow.com/htw-gwmjp/gefahrensymbole/dataset/4
+  version: 4
+  workspace: htw-gwmjp
+test: ../test/images
+train: ../train/images
+val: ../valid/images

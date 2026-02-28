@@ -1,0 +1,38 @@
+names:
+- Class 3
+- Class 6-2
+- Class 7
+- Class 8
+- Class 9
+- Division 1-4
+- Division 1-5
+- Division 1-6
+- Division 2-1
+- Division 2-2
+- Division 2-3
+- Division 4-1
+- Division 4-2
+- Division 4-3
+- Division 5-1
+- Division 5-2
+- Division 6-1
+- Divisions 1-1-C1-3
+- GHS01- Explosive
+- GHS02- Flammable
+- GHS03- Oxidizing
+- GHS04- Compressed Gas
+- GHS05- Corrosive
+- GHS06- Toxic
+- GHS07- Health Hazard-Hazardous to Ozone Layer
+- GHS08- Serious Health hazard
+- GHS09- Hazardous to the Environment
+nc: 27
+roboflow:
+  license: CC BY 4.0
+  project: ghs-hze4d
+  url: https://universe.roboflow.com/fireljj/ghs-hze4d/dataset/1
+  version: 1
+  workspace: fireljj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
