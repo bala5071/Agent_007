@@ -1,0 +1,49 @@
+Image: 08720182933904_C7N1_s05_png.rf.d6383df166a5da0ab37b08fa372eb150.jpg
+Ground Truth: ['flammable']
+Detected:     ['flammable']
+Status:       [EXACT]
+Latency:      70.1s
+
+-- Safety Brief --
+SEVERITY: MEDIUM
+
+1) SUMMARY
+- GHS02: Flammable material — catches fire easily under normal conditions
+
+2) HAZARDS
+  - Highly flammable liquid and vapor
+  - May form explosive vapor-air mixtures
+  - Risk of flash fire or deflagration
+
+3) PPE REQUIRED
+  - Wear flame-resistant clothing
+  - Use chemical splash goggles
+  - Use nitrile or neoprene gloves
+  - Ensure adequate ventilation or use respiratory protection
+
+4) HANDLING SOP
+  1. Keep away from heat, sparks, open flames, and hot surfaces — No smoking
+  2. Ground and bond containers during transfer
+  3. Use explosion-proof electrical equipment
+  4. Keep container tightly closed when not in use
+  5. Use only non-sparking tools
+
+5) STORAGE
+  - Store in a cool, well-ventilated area away from incompatible materials
+  - Keep away from oxidizers and ignition sources
+  - Store below recommended temperature on SDS
+
+6) EMERGENCY / FIRST AID
+  - If on fire: use dry chemical, CO2, or foam extinguisher — do NOT use water jet
+  - If skin contact: remove contaminated clothing; wash skin with soap and water
+  - If inhaled: move to fresh air; seek medical attention if symptoms persist
+
+7) AUTONOMOUS SAFETY ACTIONS
+  ACTION: Set flammable handling mode — remove all ignition sources from area
+
+8) VOICE SCRIPT
+  "Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE."
+
+-- Voice Script --
+"VOICE SCRIPT
+  "Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE."

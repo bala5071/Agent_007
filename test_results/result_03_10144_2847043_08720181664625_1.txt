@@ -1,0 +1,55 @@
+Image: 10144_2847043_08720181664625_17203205_GHS_Symbol_CORROSION_png.rf.ad6a4503fd1387d123624116bfe8ba4d.jpg
+Ground Truth: ['corrosive', 'harmful']
+Detected:     ['corrosive', 'harmful']
+Status:       [EXACT]
+Latency:      75.5s
+
+-- Safety Brief --
+SEVERITY: MEDIUM
+
+1) SUMMARY
+- GHS Code: GHS07 (Harmful) & GHS05 (Corrosive)
+- Symbol: Exclamation Mark + Corrosive symbol
+- Severity: Medium
+
+2) HAZARDS
+  - Harmful if swallowed
+  - Harmful in contact with skin
+  - Causes skin irritation
+  - Causes serious eye irritation
+  - May cause respiratory irritation
+
+3) PPE REQUIRED
+  - Wear protective gloves
+  - Avoid breathing dust, fumes, gas, mist, vapors, or spray
+  - Wash hands thoroughly after handling
+  - Wear chemical-resistant gloves (butyl rubber or neoprene)
+  - Use full-face shield or chemical splash goggles
+
+4) HANDLING SOP
+  1. Avoid swallowing. Do not eat, drink, or smoke when using this product
+  2. Use only outdoors or in a well-ventilated area
+  3. Avoid breathing dust, fumes, gas, mist, vapors, or spray
+  4. Wash hands thoroughly after handling
+  5. Contaminated work clothing must not be taken out of the workplace
+
+5) STORAGE
+  - Store in a well-ventilated place
+  - Keep container tightly closed
+  - Store locked up
+
+6) EMERGENCY / FIRST AID
+  - If swallowed: immediately call Poison Control; rinse mouth; do NOT induce vomiting
+  - If skin contact: wash with soap and water; call a doctor if irritation persists
+  - Specific treatment required — see Safety Data Sheet
+  - If exposed or concerned: get medical advice/attention
+
+7) AUTONOMOUS SAFETY ACTIONS
+  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness
+
+8) VOICE SCRIPT
+  "Harmful if swallowed or touched. Ensure good ventilation. Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact."
+
+-- Voice Script --
+"VOICE SCRIPT
+  "Harmful if swallowed or touched. Ensure good ventilation. Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact."

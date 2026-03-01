@@ -1,0 +1,162 @@
+[
+  {
+    "image": "10144_2237597_08710447448663_565510_GHS_Symbol_CORROSION_png.rf.ddec2bc780266a3317e92406c547d516.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\10144_2237597_08710447448663_565510_GHS_Symbol_CORROSION_png.rf.ddec2bc780266a3317e92406c547d516.jpg",
+    "gt_labels": [
+      "corrosive"
+    ],
+    "detected_labels": [
+      "corrosive"
+    ],
+    "paligemma_raw": "<loc0386><loc0488><loc0504><loc0600> corrosive",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS Code: GHS05 — Corrosive\n  - Causes severe skin burns, eye damage, or corrodes metals\n  - May be corrosive to metals\n  - Irreversible tissue destruction on contact\n\n2) HAZARDS\n  - Causes severe skin burns and eye damage\n  - May be corrosive to metals\n  - Irreversible tissue destruction on contact\n  - Do not breathe mist, vapors, or spray\n\n3) PPE REQUIRED\n  - Wear chemical-resistant gloves (butyl rubber or neoprene)\n  - Use full-face shield or chemical splash goggles\n  - Wear acid/alkali-resistant apron or suit\n  - Use respiratory protection if vapor or mist is generated\n\n4) HANDLING SOP\n  1. Do not breathe mist, vapors, or spray\n  2. Wash hands and exposed skin thoroughly after handling\n  3. Do not eat, drink, or smoke when using this product\n  4. Use only in well-ventilated areas\n\n5) STORAGE\n  - Store in corrosion-resistant container with a resistant inner liner\n  - Keep tightly closed and upright to prevent leakage\n  - Separate from metals and incompatible chemicals\n\n6) EMERGENCY / FIRST AID\n  - If skin contact: immediately flush with plenty of water for at least 15 minutes; remove contaminated clothing\n  - If eye contact: rinse cautiously with water for at least 15 minutes; remove contact lenses if easy; seek immediate medical attention\n  - If swallowed: rinse mouth; do NOT induce vomiting; call Poison Control immediately\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness\n\n8) VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.",
+    "latency_s": 72.18
+  },
+  {
+    "image": "Multipicto32_jpg.rf.8b84f9e4702251881f222a65345fecda.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\Multipicto32_jpg.rf.8b84f9e4702251881f222a65345fecda.jpg",
+    "gt_labels": [
+      "flammable",
+      "harmful",
+      "health_hazard"
+    ],
+    "detected_labels": [
+      "flammable",
+      "harmful",
+      "oxidizer"
+    ],
+    "paligemma_raw": "<loc0776><loc0840><loc0856><loc0893> flammable ; <loc0199><loc0534><loc0268><loc0586> oxidizer ; <loc0237><loc0332><loc0286><loc0369> harmful",
+    "detection_status": "[MISS]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS Code: GHS07 (Harmful) & GHS03 (Oxidizer) & GHS02 (Flammable)\n- Severity: Medium\n\n2) HAZARDS\n  - Harmful if swallowed\n  - Harmful in contact with skin\n  - Causes serious eye irritation\n  - May cause respiratory irritation\n  - Oxidizer — may cause or intensify fire\n\n3) PPE REQUIRED\n  - Wear protective gloves\n  - Avoid breathing dust, fumes, gas, mist, vapors, or spray\n  - Wear eye protection\n  - Wear fire-resistant clothing\n  - Wear chemical splash goggles\n\n4) HANDLING SOP\n  1. Do not swallow\n  2. Avoid skin contact\n  3. Use only outdoors or in a well-ventilated area\n  4. Wash hands thoroughly after handling\n  5. Keep away from combustible materials (clothing, wood, paper, oil)\n  6. Take precautionary measures against static discharge\n\n5) STORAGE\n  - Store in a well-ventilated place\n  - Keep container tightly closed\n  - Store away from food, beverages, and animal feed\n  - Store oxidizers separately from other hazardous chemicals\n\n6) EMERGENCY / FIRST AID\n  - If swallowed: immediately call Poison Control; rinse mouth; do NOT induce vomiting\n  - If skin contact: wash with soap and water; call a doctor if irritation persists\n  - If inhaled: move to fresh air; call a doctor if you feel unwell\n  - In case of fire: use water spray or foam — oxidizer may intensify fire\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Set flammable handling mode — remove all ignition sources from area\n  ACTION: Require chemical-resistant gloves before handling — verify availability\n\n8) VOICE SCRIPT\n  \"Harmful if swallowed or in contact. Wear gloves and avoid skin contact. Irritant detected. Wear eye protection. Ensure good ventilation. Oxidizer detected. Keep away from combustible materials. May intensify fire.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Harmful if swallowed or in contact. Wear gloves and avoid skin contact. Irritant detected. Wear eye protection. Ensure good ventilation. Oxidizer detected. Keep away from combustible materials. May intensify fire.",
+    "latency_s": 93.39
+  },
+  {
+    "image": "10144_2847043_08720181664625_17203205_GHS_Symbol_CORROSION_png.rf.ad6a4503fd1387d123624116bfe8ba4d.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\10144_2847043_08720181664625_17203205_GHS_Symbol_CORROSION_png.rf.ad6a4503fd1387d123624116bfe8ba4d.jpg",
+    "gt_labels": [
+      "corrosive",
+      "harmful"
+    ],
+    "detected_labels": [
+      "corrosive",
+      "harmful"
+    ],
+    "paligemma_raw": "<loc0803><loc0460><loc0847><loc0500> corrosive ; <loc0805><loc0423><loc0852><loc0469> harmful",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS Code: GHS07 (Harmful) & GHS05 (Corrosive)\n- Symbol: Exclamation Mark + Corrosive symbol\n- Severity: Medium\n\n2) HAZARDS\n  - Harmful if swallowed\n  - Harmful in contact with skin\n  - Causes skin irritation\n  - Causes serious eye irritation\n  - May cause respiratory irritation\n\n3) PPE REQUIRED\n  - Wear protective gloves\n  - Avoid breathing dust, fumes, gas, mist, vapors, or spray\n  - Wash hands thoroughly after handling\n  - Wear chemical-resistant gloves (butyl rubber or neoprene)\n  - Use full-face shield or chemical splash goggles\n\n4) HANDLING SOP\n  1. Avoid swallowing. Do not eat, drink, or smoke when using this product\n  2. Use only outdoors or in a well-ventilated area\n  3. Avoid breathing dust, fumes, gas, mist, vapors, or spray\n  4. Wash hands thoroughly after handling\n  5. Contaminated work clothing must not be taken out of the workplace\n\n5) STORAGE\n  - Store in a well-ventilated place\n  - Keep container tightly closed\n  - Store locked up\n\n6) EMERGENCY / FIRST AID\n  - If swallowed: immediately call Poison Control; rinse mouth; do NOT induce vomiting\n  - If skin contact: wash with soap and water; call a doctor if irritation persists\n  - Specific treatment required — see Safety Data Sheet\n  - If exposed or concerned: get medical advice/attention\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness\n\n8) VOICE SCRIPT\n  \"Harmful if swallowed or touched. Ensure good ventilation. Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Harmful if swallowed or touched. Ensure good ventilation. Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.",
+    "latency_s": 75.5
+  },
+  {
+    "image": "11802_2760733_08700216313247_17439433_GHS_Symbol_CORROSION_png.rf.cac29de5983c4f75f69e4d64c8901aa9.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\11802_2760733_08700216313247_17439433_GHS_Symbol_CORROSION_png.rf.cac29de5983c4f75f69e4d64c8901aa9.jpg",
+    "gt_labels": [
+      "corrosive"
+    ],
+    "detected_labels": [
+      "corrosive"
+    ],
+    "paligemma_raw": "<loc0654><loc0124><loc0724><loc0195> corrosive",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS Code: GHS05 — Corrosive\n  - Causes severe skin burns, eye damage, or corrodes metals\n  - May be corrosive to metals\n  - Irreversible tissue destruction on contact\n\n2) HAZARDS\n  - Causes severe skin burns and eye damage\n  - May be corrosive to metals\n  - Irreversible tissue destruction on contact\n  - Do not breathe mist, vapors, or spray\n\n3) PPE REQUIRED\n  - Wear chemical-resistant gloves (butyl rubber or neoprene)\n  - Use full-face shield or chemical splash goggles\n  - Wear acid/alkali-resistant apron or suit\n  - Use respiratory protection if vapor or mist is generated\n\n4) HANDLING SOP\n  1. Do not breathe mist, vapors, or spray\n  2. Wash hands and exposed skin thoroughly after handling\n  3. Do not eat, drink, or smoke when using this product\n  4. Use only in well-ventilated areas\n\n5) STORAGE\n  - Store in corrosion-resistant container with a resistant inner liner\n  - Keep tightly closed and upright to prevent leakage\n  - Separate from metals and incompatible chemicals\n\n6) EMERGENCY / FIRST AID\n  - If skin contact: immediately flush with plenty of water for at least 15 minutes; remove contaminated clothing\n  - If eye contact: rinse cautiously with water for at least 15 minutes; remove contact lenses if easy; seek immediate medical attention\n  - If swallowed: rinse mouth; do NOT induce vomiting; call Poison Control immediately\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness\n\n8) VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.",
+    "latency_s": 77.76
+  },
+  {
+    "image": "11802_2811288_08700216624732_17367528_GHS_Symbol_EXCLAMATION_MARK_png.rf.7d81bda3d5293cbc8d8947f5eb1d10c8.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\11802_2811288_08700216624732_17367528_GHS_Symbol_EXCLAMATION_MARK_png.rf.7d81bda3d5293cbc8d8947f5eb1d10c8.jpg",
+    "gt_labels": [
+      "harmful"
+    ],
+    "detected_labels": [
+      "harmful"
+    ],
+    "paligemma_raw": "<loc0510><loc0488><loc0581><loc0551> harmful",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: LOW\n\n1) SUMMARY\n- GHS Code: GHS07\n- Symbol: Exclamation Mark (Health Hazard) — Harmful or irritant\n\n2) HAZARDS\n  - May cause irritation to skin, eyes, or respiratory tract\n  - May cause drowsiness or dizziness\n  - May cause allergic skin reaction\n  - Other health effects may vary\n\n3) PPE REQUIRED\n  - Wear protective gloves\n  - Wear eye/face protection\n  - Ensure adequate ventilation; if exposure cannot be controlled below established limits, use respiratory protection\n  - Prevent breathing dust, fumes, gas, mist, vapors, or spray\n\n4) HANDLING SOP\n  1. Avoid breathing dust, fumes, gas, mist, vapors, or spray\n  2. Wash hands thoroughly after handling\n  3. Use only outdoors or in a well-ventilated area\n  4. Contaminated work clothing must not be taken out of the workplace\n  5. Avoid breathing dust, smoke, or vapor\n\n5) STORAGE\n  - Store in a well-ventilated place\n  - Keep container tightly closed\n  - Protect from sunlight and do not expose to temperatures exceeding 30°C/86°F\n\n6) EMERGENCY / FIRST AID\n  - If skin irritation occurs: wash with soap and water; get medical advice if irritation persists\n  - If eye irritation occurs: rinse cautiously with water for several minutes; get medical advice\n  - If inhaled: move to fresh air; call a doctor if you feel unwell\n  - Specific treatment rocedures — see Safety Data Sheet\n\n7) AUTONOMOUS SAFETY ACTIONS\n\n8) VOICE SCRIPT\n  \"Irritant detected. Wear gloves and eye protection. Ensure good ventilation.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Irritant detected. Wear gloves and eye protection. Ensure good ventilation.",
+    "latency_s": 72.08
+  },
+  {
+    "image": "IMG_8266_jpg.rf.a27fac4ce62ee2498d92554fa25f4ee6.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\IMG_8266_jpg.rf.a27fac4ce62ee2498d92554fa25f4ee6.jpg",
+    "gt_labels": [
+      "explosive",
+      "health_hazard",
+      "toxic"
+    ],
+    "detected_labels": [
+      "explosive",
+      "health_hazard",
+      "toxic"
+    ],
+    "paligemma_raw": "<loc0432><loc0480><loc0536><loc0608> toxic ; <loc0441><loc0860><loc0530><loc1023> explosive ; <loc0412><loc0095><loc0590><loc0233> health_hazard",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: HIGH\n\n1) SUMMARY\n- GHS06: Acute Toxicity — Fatal or Toxic if swallowed, inhaled, or in contact with skin\n- GHS08: HealthHazardSymbol — Serious health hazard — may cause cancer, organ damage, or respiratory sensitization\n- GHS01: Explosive — Unstable explosive material — risk of mass explosion\n\n2) HAZARDS\n  - Fatal or toxic if swallowed\n  - Fatal or toxic if inhaled\n  - Fatal or toxic in contact with skin\n  - May cause cancer\n  - May cause genetic defects\n  - May cause damage to organs through prolonged or repeated exposure\n\n3) PPE REQUIRED\n  - Wear full-body chemical protective suit\n  - Use NIOSH-approved respirator or self-contained breathing apparatus (SCBA)\n  - Wear chemical-resistant gloves (double gloving recommended)\n  - Use chemical splash goggles with face shield\n  - Wear full-body protective clothing\n  - Use respiratory protection (P100 or OV/P100 combination cartridge)\n\n4) HANDLING SOP\n  1. Avoid all exposure — obtain special instructions before use\n  2. Use only outdoors or in well-ventilated area with local exhaust\n  3. Do not breathe dust, fumes, gas, mist, vapors, or spray\n  4. Wash hands and exposed skin thoroughly after handling\n  5. Contaminated work clothing must not be taken out of the workplace\n  6. Obtain special instructions before use\n\n5) STORAGE\n  - Store locked up in a secure, well-ventilated area\n  - Keep separated from food, beverages, and animal feed\n  - Store locked up in a secure, fireproof vault\n  - Keep away from combustible materials\n\n6) EMERGENCY / FIRST AID\n  - If swallowed: immediately call Poison Control; rinse mouth; do NOT induce vomiting\n  - If inhaled: remove person to fresh air; keep comfortable for breathing; call emergency services\n  - If skin contact: immediately wash with plenty of soap and water; call Poison Control\n  - Specific treatment required — see Safety Data Sheet\n  - In case of fire: evacuate building according to established emergency plan\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: STOP — verify SDS is available before proceeding; ensure emergency shower is accessible\n  ACTION: Require respiratory protection and full-body suit; check exposure monitoring\n  ACTION: ELEVATED RISK — multiple high-severity symbols detected; require supervisor sign-off before handling\n\n8) VOICE SCRIPT\n  \"WARNING: DANGER: Toxic substance detected. Full protective equipment required. Avoid all exposure routes. Serious health hazard detected. May cause organ damage or cancer. Full protective gear needed. Verify SDS and get supervisor approval. UNSTABLE EXPLODIVE MATERIAL DETECTED. Evacuate area immediately. Notify safety officer.\"",
+    "voice_script": "HealthHazardSymbol — Serious health hazard — may cause cancer, organ damage, or respiratory sensitization\n- GHS01: Explosive — Unstable explosive material — risk of mass explosion\n\n2) HAZARDS\n  - Fata",
+    "latency_s": 120.22
+  },
+  {
+    "image": "10144_2607703_08720181347245_14400883_GHS_Symbol_FLAME_png.rf.83e1185b184bed7fb41a5daca9a096fc.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\10144_2607703_08720181347245_14400883_GHS_Symbol_FLAME_png.rf.83e1185b184bed7fb41a5daca9a096fc.jpg",
+    "gt_labels": [
+      "flammable"
+    ],
+    "detected_labels": [
+      "flammable"
+    ],
+    "paligemma_raw": "<loc0879><loc0476><loc0963><loc0564> flammable",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS02: Flammable material — catches fire easily under normal conditions\n\n2) HAZARDS\n  - Highly flammable liquid and vapor\n  - May form explosive vapor-air mixtures\n  - Risk of flash fire or deflagration\n\n3) PPE REQUIRED\n  - Wear flame-resistant clothing\n  - Use chemical splash goggles\n  - Use nitrile or neoprene gloves\n  - Ensure adequate ventilation or use respiratory protection\n\n4) HANDLING SOP\n  1. Keep away from heat, sparks, open flames, and hot surfaces — No smoking\n  2. Ground and bond containers during transfer\n  3. Use explosion-proof electrical equipment\n  4. Keep container tightly closed when not in use\n  5. Use only non-sparking tools\n\n5) STORAGE\n  - Store in a cool, well-ventilated area away from incompatible materials\n  - Keep away from oxidizers and ignition sources\n  - Store below recommended temperature on SDS\n\n6) EMERGENCY / FIRST AID\n  - If on fire: use dry chemical, CO2, or foam extinguisher — do NOT use water jet\n  - If skin contact: remove contaminated clothing; wash skin with soap and water\n  - If inhaled: move to fresh air; seek medical attention if symptoms persist\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Set flammable handling mode — remove all ignition sources from area\n\n8) VOICE SCRIPT\n  \"Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE.",
+    "latency_s": 64.61
+  },
+  {
+    "image": "11802_2760708_08700216313322_17577638_GHS_Symbol_CORROSION_png.rf.54a8840a2db9e6e00a8da342090953a5.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\11802_2760708_08700216313322_17577638_GHS_Symbol_CORROSION_png.rf.54a8840a2db9e6e00a8da342090953a5.jpg",
+    "gt_labels": [
+      "corrosive"
+    ],
+    "detected_labels": [
+      "corrosive"
+    ],
+    "paligemma_raw": "<loc0645><loc0828><loc0701><loc0877> corrosive",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS Code: GHS05 — Corrosive\n  - Causes severe skin burns, eye damage, or corrodes metals\n  - May be corrosive to metals\n  - Irreversible tissue destruction on contact\n\n2) HAZARDS\n  - Causes severe skin burns and eye damage\n  - May be corrosive to metals\n  - Irreversible tissue destruction on contact\n  - Do not breathe mist, vapors, or spray\n\n3) PPE REQUIRED\n  - Wear chemical-resistant gloves (butyl rubber or neoprene)\n  - Use full-face shield or chemical splash goggles\n  - Wear acid/alkali-resistant apron or suit\n  - Use respiratory protection if vapor or mist is generated\n\n4) HANDLING SOP\n  1. Do not breathe mist, vapors, or spray\n  2. Wash hands and exposed skin thoroughly after handling\n  3. Do not eat, drink, or smoke when using this product\n  4. Use only in well-ventilated areas\n\n5) STORAGE\n  - Store in corrosion-resistant container with a resistant inner liner\n  - Keep tightly closed and upright to prevent leakage\n  - Separate from metals and incompatible chemicals\n\n6) EMERGENCY / FIRST AID\n  - If skin contact: immediately flush with plenty of water for at least 15 minutes; remove contaminated clothing\n  - If eye contact: rinse cautiously with water for at least 15 minutes; remove contact lenses if easy; seek immediate medical attention\n  - If swallowed: rinse mouth; do NOT induce vomiting; call Poison Control immediately\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness\n\n8) VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.",
+    "latency_s": 68.59
+  },
+  {
+    "image": "08720182933904_C7N1_s05_png.rf.d6383df166a5da0ab37b08fa372eb150.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\08720182933904_C7N1_s05_png.rf.d6383df166a5da0ab37b08fa372eb150.jpg",
+    "gt_labels": [
+      "flammable"
+    ],
+    "detected_labels": [
+      "flammable"
+    ],
+    "paligemma_raw": "<loc0547><loc0315><loc0620><loc0380> flammable",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS02: Flammable material — catches fire easily under normal conditions\n\n2) HAZARDS\n  - Highly flammable liquid and vapor\n  - May form explosive vapor-air mixtures\n  - Risk of flash fire or deflagration\n\n3) PPE REQUIRED\n  - Wear flame-resistant clothing\n  - Use chemical splash goggles\n  - Use nitrile or neoprene gloves\n  - Ensure adequate ventilation or use respiratory protection\n\n4) HANDLING SOP\n  1. Keep away from heat, sparks, open flames, and hot surfaces — No smoking\n  2. Ground and bond containers during transfer\n  3. Use explosion-proof electrical equipment\n  4. Keep container tightly closed when not in use\n  5. Use only non-sparking tools\n\n5) STORAGE\n  - Store in a cool, well-ventilated area away from incompatible materials\n  - Keep away from oxidizers and ignition sources\n  - Store below recommended temperature on SDS\n\n6) EMERGENCY / FIRST AID\n  - If on fire: use dry chemical, CO2, or foam extinguisher — do NOT use water jet\n  - If skin contact: remove contaminated clothing; wash skin with soap and water\n  - If inhaled: move to fresh air; seek medical attention if symptoms persist\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Set flammable handling mode — remove all ignition sources from area\n\n8) VOICE SCRIPT\n  \"Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE.",
+    "latency_s": 70.06
+  },
+  {
+    "image": "10144_2548202_08720181075445_5205131_GHS_Symbol_FLAME_png.rf.19b9acb9135eb002c563623a31abd54f.jpg",
+    "image_path": "c:\\Users\\balas\\Documents\\Projects\\Agent_007\\merged_dataset\\test\\10144_2548202_08720181075445_5205131_GHS_Symbol_FLAME_png.rf.19b9acb9135eb002c563623a31abd54f.jpg",
+    "gt_labels": [
+      "flammable"
+    ],
+    "detected_labels": [
+      "flammable"
+    ],
+    "paligemma_raw": "<loc0868><loc0608><loc0947><loc0644> flammable",
+    "detection_status": "[EXACT]",
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS02: Flammable material — catches fire easily under normal conditions\n\n2) HAZARDS\n  - Highly flammable liquid and vapor\n  - May form explosive vapor-air mixtures\n  - Risk of flash fire or deflagration\n\n3) PPE REQUIRED\n  - Wear flame-resistant clothing\n  - Use chemical splash goggles\n  - Use nitrile or neoprene gloves\n  - Ensure adequate ventilation or use respiratory protection\n\n4) HANDLING SOP\n  1. Keep away from heat, sparks, open flames, and hot surfaces — No smoking\n  2. Ground and bond containers during transfer\n  3. Use explosion-proof electrical equipment\n  4. Keep container tightly closed when not in use\n  5. Use only non-sparking tools\n\n5) STORAGE\n  - Store in a cool, well-ventilated area away from incompatible materials\n  - Keep away from oxidizers and ignition sources\n  - Store below recommended temperature on SDS\n\n6) EMERGENCY / FIRST AID\n  - If on fire: use dry chemical, CO2, or foam extinguisher — do NOT use water jet\n  - If skin contact: remove contaminated clothing; wash skin with soap and water\n  - If inhaled: move to fresh air; seek medical attention if symptoms persist\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Set flammable handling mode — remove all ignition sources from area\n\n8) VOICE SCRIPT\n  \"Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Flammable material detected. Keep away from heat and ignition sources. Wear flame-resistant PPE.",
+    "latency_s": 57.81
+  }
+]

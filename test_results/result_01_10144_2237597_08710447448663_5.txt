@@ -1,0 +1,52 @@
+Image: 10144_2237597_08710447448663_565510_GHS_Symbol_CORROSION_png.rf.ddec2bc780266a3317e92406c547d516.jpg
+Ground Truth: ['corrosive']
+Detected:     ['corrosive']
+Status:       [EXACT]
+Latency:      72.2s
+
+-- Safety Brief --
+SEVERITY: MEDIUM
+
+1) SUMMARY
+- GHS Code: GHS05 — Corrosive
+  - Causes severe skin burns, eye damage, or corrodes metals
+  - May be corrosive to metals
+  - Irreversible tissue destruction on contact
+
+2) HAZARDS
+  - Causes severe skin burns and eye damage
+  - May be corrosive to metals
+  - Irreversible tissue destruction on contact
+  - Do not breathe mist, vapors, or spray
+
+3) PPE REQUIRED
+  - Wear chemical-resistant gloves (butyl rubber or neoprene)
+  - Use full-face shield or chemical splash goggles
+  - Wear acid/alkali-resistant apron or suit
+  - Use respiratory protection if vapor or mist is generated
+
+4) HANDLING SOP
+  1. Do not breathe mist, vapors, or spray
+  2. Wash hands and exposed skin thoroughly after handling
+  3. Do not eat, drink, or smoke when using this product
+  4. Use only in well-ventilated areas
+
+5) STORAGE
+  - Store in corrosion-resistant container with a resistant inner liner
+  - Keep tightly closed and upright to prevent leakage
+  - Separate from metals and incompatible chemicals
+
+6) EMERGENCY / FIRST AID
+  - If skin contact: immediately flush with plenty of water for at least 15 minutes; remove contaminated clothing
+  - If eye contact: rinse cautiously with water for at least 15 minutes; remove contact lenses if easy; seek immediate medical attention
+  - If swallowed: rinse mouth; do NOT induce vomiting; call Poison Control immediately
+
+7) AUTONOMOUS SAFETY ACTIONS
+  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness
+
+8) VOICE SCRIPT
+  "Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact."
+
+-- Voice Script --
+"VOICE SCRIPT
+  "Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact."

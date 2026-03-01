@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2026-02-28T20:04:56.998795",
+    "mode": "scan",
+    "detected_symbols": [],
+    "risk_level": 0,
+    "safety_brief": "No GHS hazard symbols detected. Area appears safe.",
+    "voice_script": "No GHS hazard symbols detected. Area appears safe.",
+    "latency_s": 2.03
+  },
+  {
+    "timestamp": "2026-02-28T20:08:11.452673",
+    "mode": "scan",
+    "detected_symbols": [
+      "harmful",
+      "corrosive"
+    ],
+    "risk_level": 3,
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS07: Harmful — may cause irritation or lesser health effects\n- GHS05: Corrosive — causes severe skin burns, eye damage, or corrodes metals\n\n2) HAZARDS\n  - Health hazard (irritant or lesser health effect)\n  - Environmental hazard (toxic to aquatic life)\n  - May cause respiratory irritation\n  - Causes severe skin burns and eye damage\n  - May be corrosive to metals\n\n3) PPE REQUIRED\n  - Wear protective gloves\n  - Wear eye/face protection\n  - Ensure adequate ventilation\n  - Wear chemical-resistant gloves (butyl rubber or neoprene)\n  - Use full-face shield or chemical splash goggles\n  - Wear acid/alkali-resistant apron or suit\n\n4) HANDLING SOP\n  1. Avoid breathing dust, fumes, gas, mist, vapors, or spray\n  2. Wash hands thoroughly after handling\n  3. Use only outdoors or in a well-ventilated area\n  4. Do not eat, drink, or smoke when using this product\n  5. Wash hands and exposed skin thoroughly after handling\n  6. Contaminated work clothing must not be taken out of the workplace\n\n5) STORAGE\n  - Store in a well-ventilated place\n  - Keep container tightly closed\n  - Store away from food, beverages, and animal feed\n  - Store in corrosion-resistant container with a resistant inner liner\n\n6) EMERGENCY / FIRST AID\n  - If inhaled: move to fresh air; call a doctor if symptoms persist\n  - If skin irritation occurs: wash with soap and water; get medical advice if irritation persists\n  - If swallowed: rinse mouth; do NOT induce vomiting; call Poison Control immediately\n  - In case of skin contact: immediately flush with plenty of water for at least 15 minutes; remove contaminated clothing\n  - If eye contact: rinse cautiously with water for at least 15 minutes; remove contact lenses if easy; seek immediate medical attention\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness\n\n8) VOICE SCRIPT\n  \"Harmful substance detected. Avoid breathing dust, fumes, or spray. Wear protective gloves and eye protection. Corrosive material detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Harmful substance detected. Avoid breathing dust, fumes, or spray. Wear protective gloves and eye protection. Corrosive material detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.",
+    "latency_s": 112.97
+  },
+  {
+    "timestamp": "2026-02-28T20:10:16.371058",
+    "mode": "scan",
+    "detected_symbols": [
+      "corrosive"
+    ],
+    "risk_level": 3,
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS05: Corrosive — causes severe skin burns, eye damage, or corrodes metals\n\n2) HAZARDS\n  - Causes severe skin burns and eye damage\n  - May be corrosive to metals\n  - Irreversible tissue destruction on contact\n\n3) PPE REQUIRED\n  - Wear chemical-resistant gloves (butyl rubber or neoprene)\n  - Use full-face shield or chemical splash goggles\n  - Wear acid/alkali-resistant apron or suit\n  - Use respiratory protection if vapor or mist is generated\n\n4) HANDLING SOP\n  1. Do not breathe mist, vapors, or spray\n  2. Wash hands and exposed skin thoroughly after handling\n  3. Do not eat, drink, or smoke when using this product\n  4. Use only in well-ventilated areas\n\n5) STORAGE\n  - Store in corrosion-resistant container with a resistant inner liner\n  - Keep tightly closed and upright to prevent leakage\n  - Separate from metals and incompatible chemicals\n\n6) EMERGENCY / FIRST AID\n  - If skin contact: immediately flush with plenty of water for at least 15 minutes; remove contaminated clothing\n  - If eye contact: rinse cautiously with water for at least 15 minutes; remove contact lenses if easy; seek immediate medical attention\n  - If swallowed: rinse mouth; do NOT induce vomiting; call Poison Control immediately\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness\n\n8) VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Corrosive substance detected. Wear chemical-resistant gloves and face shield. Avoid skin and eye contact.",
+    "latency_s": 82.68
+  },
+  {
+    "timestamp": "2026-02-28T20:20:57.557859",
+    "mode": "scan",
+    "detected_symbols": [
+      "harmful",
+      "oxidizer",
+      "corrosive"
+    ],
+    "risk_level": 3,
+    "safety_brief": "SEVERITY: MEDIUM\n\n1) SUMMARY\n- GHS07: Harmful — may cause irritation or lesser health effects\n- GHS03: Oxidizer — may cause or intensify fire\n- GHS05: Corrosive — causes severe skin burns, eye damage, or corrodes metals\n\n2) HAZARDS\n  - Health hazard: Serious health hazard — may cause cancer, organ damage, or respiratory sensitization\n  - Environmental: Hazardous to the aquatic environment\n  - Irreversible tissue destruction\n\n3) PPE REQUIRED\n  - Wear protective gloves\n  - Wear eye/face protection\n  - Ensure adequate ventilation\n  - Wear fire-resistant clothing\n  - Use chemical splash goggles\n\n4) HANDLING SOP\n  1. Avoid breathing dust, fumes, gas, mist, vapors, or spray\n  2. Wash hands thoroughly after handling\n  3. Use only outdoors or in a well-ventilated area\n  4. Keep away from combustible materials (clothing, wood, paper, oil)\n  5. Do not breathe mist, vapors, or spray\n\n5) STORAGE\n  - Store locked up\n  - Keep separated from food, beverages, and animal feed\n  - Store away from combustible materials\n  - Store in corrosion-resistant container with a resistant inner liner\n\n6) EMERGENCY / FIRST AID\n  - If inhaled: move to fresh air; seek medical attention if symptoms persist\n  - Specific treatment — see Safety Data Sheet\n  - In case of fire: use water spray or foam — oxidizer may intensify fire\n  - Contact short-term duty officer if exposed or concerned\n\n7) AUTONOMOUS SAFETY ACTIONS\n  ACTION: Require chemical-resistant gloves and goggles before handling — activate spill protocol readiness\n  ACTION: Verify SDS is available before proceeding; ensure eyewash station is accessible\n\n8) VOICE SCRIPT\n  \"Harmful substance detected. Wear gloves and eye protection. Ensure good ventilation. Oxidizer detected. Keep away from combustible materials. May intensify fire. Corrosive substance detected. Wear acid/alkali-resistant gloves. Protect skin from all contact.\"",
+    "voice_script": "VOICE SCRIPT\n  \"Harmful substance detected. Wear gloves and eye protection. Ensure good ventilation. Oxidizer detected. Keep away from combustible materials. May intensify fire. Corrosive substance detected. Wear acid/alkali-resistant gloves. Protect skin from all contact.",
+    "latency_s": 113.94
+  }
+]

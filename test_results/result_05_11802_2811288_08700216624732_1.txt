@@ -1,0 +1,51 @@
+Image: 11802_2811288_08700216624732_17367528_GHS_Symbol_EXCLAMATION_MARK_png.rf.7d81bda3d5293cbc8d8947f5eb1d10c8.jpg
+Ground Truth: ['harmful']
+Detected:     ['harmful']
+Status:       [EXACT]
+Latency:      72.1s
+
+-- Safety Brief --
+SEVERITY: LOW
+
+1) SUMMARY
+- GHS Code: GHS07
+- Symbol: Exclamation Mark (Health Hazard) — Harmful or irritant
+
+2) HAZARDS
+  - May cause irritation to skin, eyes, or respiratory tract
+  - May cause drowsiness or dizziness
+  - May cause allergic skin reaction
+  - Other health effects may vary
+
+3) PPE REQUIRED
+  - Wear protective gloves
+  - Wear eye/face protection
+  - Ensure adequate ventilation; if exposure cannot be controlled below established limits, use respiratory protection
+  - Prevent breathing dust, fumes, gas, mist, vapors, or spray
+
+4) HANDLING SOP
+  1. Avoid breathing dust, fumes, gas, mist, vapors, or spray
+  2. Wash hands thoroughly after handling
+  3. Use only outdoors or in a well-ventilated area
+  4. Contaminated work clothing must not be taken out of the workplace
+  5. Avoid breathing dust, smoke, or vapor
+
+5) STORAGE
+  - Store in a well-ventilated place
+  - Keep container tightly closed
+  - Protect from sunlight and do not expose to temperatures exceeding 30°C/86°F
+
+6) EMERGENCY / FIRST AID
+  - If skin irritation occurs: wash with soap and water; get medical advice if irritation persists
+  - If eye irritation occurs: rinse cautiously with water for several minutes; get medical advice
+  - If inhaled: move to fresh air; call a doctor if you feel unwell
+  - Specific treatment rocedures — see Safety Data Sheet
+
+7) AUTONOMOUS SAFETY ACTIONS
+
+8) VOICE SCRIPT
+  "Irritant detected. Wear gloves and eye protection. Ensure good ventilation."
+
+-- Voice Script --
+"VOICE SCRIPT
+  "Irritant detected. Wear gloves and eye protection. Ensure good ventilation."

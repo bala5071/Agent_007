@@ -1,0 +1,65 @@
+Image: IMG_8266_jpg.rf.a27fac4ce62ee2498d92554fa25f4ee6.jpg
+Ground Truth: ['explosive', 'health_hazard', 'toxic']
+Detected:     ['explosive', 'health_hazard', 'toxic']
+Status:       [EXACT]
+Latency:      120.2s
+
+-- Safety Brief --
+SEVERITY: HIGH
+
+1) SUMMARY
+- GHS06: Acute Toxicity — Fatal or Toxic if swallowed, inhaled, or in contact with skin
+- GHS08: HealthHazardSymbol — Serious health hazard — may cause cancer, organ damage, or respiratory sensitization
+- GHS01: Explosive — Unstable explosive material — risk of mass explosion
+
+2) HAZARDS
+  - Fatal or toxic if swallowed
+  - Fatal or toxic if inhaled
+  - Fatal or toxic in contact with skin
+  - May cause cancer
+  - May cause genetic defects
+  - May cause damage to organs through prolonged or repeated exposure
+
+3) PPE REQUIRED
+  - Wear full-body chemical protective suit
+  - Use NIOSH-approved respirator or self-contained breathing apparatus (SCBA)
+  - Wear chemical-resistant gloves (double gloving recommended)
+  - Use chemical splash goggles with face shield
+  - Wear full-body protective clothing
+  - Use respiratory protection (P100 or OV/P100 combination cartridge)
+
+4) HANDLING SOP
+  1. Avoid all exposure — obtain special instructions before use
+  2. Use only outdoors or in well-ventilated area with local exhaust
+  3. Do not breathe dust, fumes, gas, mist, vapors, or spray
+  4. Wash hands and exposed skin thoroughly after handling
+  5. Contaminated work clothing must not be taken out of the workplace
+  6. Obtain special instructions before use
+
+5) STORAGE
+  - Store locked up in a secure, well-ventilated area
+  - Keep separated from food, beverages, and animal feed
+  - Store locked up in a secure, fireproof vault
+  - Keep away from combustible materials
+
+6) EMERGENCY / FIRST AID
+  - If swallowed: immediately call Poison Control; rinse mouth; do NOT induce vomiting
+  - If inhaled: remove person to fresh air; keep comfortable for breathing; call emergency services
+  - If skin contact: immediately wash with plenty of soap and water; call Poison Control
+  - Specific treatment required — see Safety Data Sheet
+  - In case of fire: evacuate building according to established emergency plan
+
+7) AUTONOMOUS SAFETY ACTIONS
+  ACTION: STOP — verify SDS is available before proceeding; ensure emergency shower is accessible
+  ACTION: Require respiratory protection and full-body suit; check exposure monitoring
+  ACTION: ELEVATED RISK — multiple high-severity symbols detected; require supervisor sign-off before handling
+
+8) VOICE SCRIPT
+  "WARNING: DANGER: Toxic substance detected. Full protective equipment required. Avoid all exposure routes. Serious health hazard detected. May cause organ damage or cancer. Full protective gear needed. Verify SDS and get supervisor approval. UNSTABLE EXPLODIVE MATERIAL DETECTED. Evacuate area immediately. Notify safety officer."
+
+-- Voice Script --
+"HealthHazardSymbol — Serious health hazard — may cause cancer, organ damage, or respiratory sensitization
+- GHS01: Explosive — Unstable explosive material — risk of mass explosion
+
+2) HAZARDS
+  - Fata"

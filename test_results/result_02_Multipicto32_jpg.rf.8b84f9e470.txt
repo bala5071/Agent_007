@@ -1,0 +1,57 @@
+Image: Multipicto32_jpg.rf.8b84f9e4702251881f222a65345fecda.jpg
+Ground Truth: ['flammable', 'harmful', 'health_hazard']
+Detected:     ['flammable', 'harmful', 'oxidizer']
+Status:       [MISS]
+Latency:      93.4s
+
+-- Safety Brief --
+SEVERITY: MEDIUM
+
+1) SUMMARY
+- GHS Code: GHS07 (Harmful) & GHS03 (Oxidizer) & GHS02 (Flammable)
+- Severity: Medium
+
+2) HAZARDS
+  - Harmful if swallowed
+  - Harmful in contact with skin
+  - Causes serious eye irritation
+  - May cause respiratory irritation
+  - Oxidizer — may cause or intensify fire
+
+3) PPE REQUIRED
+  - Wear protective gloves
+  - Avoid breathing dust, fumes, gas, mist, vapors, or spray
+  - Wear eye protection
+  - Wear fire-resistant clothing
+  - Wear chemical splash goggles
+
+4) HANDLING SOP
+  1. Do not swallow
+  2. Avoid skin contact
+  3. Use only outdoors or in a well-ventilated area
+  4. Wash hands thoroughly after handling
+  5. Keep away from combustible materials (clothing, wood, paper, oil)
+  6. Take precautionary measures against static discharge
+
+5) STORAGE
+  - Store in a well-ventilated place
+  - Keep container tightly closed
+  - Store away from food, beverages, and animal feed
+  - Store oxidizers separately from other hazardous chemicals
+
+6) EMERGENCY / FIRST AID
+  - If swallowed: immediately call Poison Control; rinse mouth; do NOT induce vomiting
+  - If skin contact: wash with soap and water; call a doctor if irritation persists
+  - If inhaled: move to fresh air; call a doctor if you feel unwell
+  - In case of fire: use water spray or foam — oxidizer may intensify fire
+
+7) AUTONOMOUS SAFETY ACTIONS
+  ACTION: Set flammable handling mode — remove all ignition sources from area
+  ACTION: Require chemical-resistant gloves before handling — verify availability
+
+8) VOICE SCRIPT
+  "Harmful if swallowed or in contact. Wear gloves and avoid skin contact. Irritant detected. Wear eye protection. Ensure good ventilation. Oxidizer detected. Keep away from combustible materials. May intensify fire."
+
+-- Voice Script --
+"VOICE SCRIPT
+  "Harmful if swallowed or in contact. Wear gloves and avoid skin contact. Irritant detected. Wear eye protection. Ensure good ventilation. Oxidizer detected. Keep away from combustible materials. May intensify fire."
